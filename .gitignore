@@ -7,3 +7,5 @@ docker/
 *.msix 
 *.log 
 __pycache__/ 
+*.py 
+*.py 
