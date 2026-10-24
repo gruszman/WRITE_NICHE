@@ -1,0 +1,510 @@
+[*] Rozpoczynam nas≥uch sygna≥Ûw dla Z£OTA (GC=F)...
+[2026-10-14 14:45] Z≥oto: $4118.70 | M15: 2/5 | H1: 4/5 | Cooldown: 12
+[2026-10-14 15:00] Z≥oto: $4120.20 | M15: 1/5 | H1: 4/5 | Cooldown: 13
+[2026-10-14 15:15] Z≥oto: $4123.30 | M15: 1/5 | H1: 4/5 | Cooldown: 14
+[2026-10-14 15:30] Z≥oto: $4121.40 | M15: 2/5 | H1: 4/5 | Cooldown: 15
+[2026-10-14 15:45] Z≥oto: $4122.90 | M15: 2/5 | H1: 4/5 | Cooldown: 16
+[2026-10-14 16:00] Z≥oto: $4121.00 | M15: 2/5 | H1: 4/5 | Cooldown: 17
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 16:15] Z≥oto: $4121.60 | M15: 2/5 | H1: 4/5 | Cooldown: 18
+[2026-10-14 16:30] Z≥oto: $4118.60 | M15: 2/5 | H1: 4/5 | Cooldown: 19
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 16:45] Z≥oto: $4127.30 | M15: 2/5 | H1: 4/5 | Cooldown: 20
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 18:00] Z≥oto: $4125.20 | M15: 1/5 | H1: 4/5 | Cooldown: 21
+[2026-10-14 18:15] Z≥oto: $4129.00 | M15: 1/5 | H1: 4/5 | Cooldown: 22
+[2026-10-14 18:30] Z≥oto: $4131.10 | M15: 1/5 | H1: 4/5 | Cooldown: 23
+[2026-10-14 18:45] Z≥oto: $4127.70 | M15: 2/5 | H1: 4/5 | Cooldown: 24
+[2026-10-14 19:00] Z≥oto: $4125.70 | M15: 2/5 | H1: 4/5 | Cooldown: 25
+[2026-10-14 19:15] Z≥oto: $4123.80 | M15: 2/5 | H1: 4/5 | Cooldown: 26
+[2026-10-14 19:30] Z≥oto: $4126.30 | M15: 0/5 | H1: 4/5 | Cooldown: 27
+[2026-10-14 19:45] Z≥oto: $4133.10 | M15: 0/5 | H1: 4/5 | Cooldown: 28
+[2026-10-14 20:00] Z≥oto: $4150.60 | M15: 0/5 | H1: 4/5 | Cooldown: 29
+[2026-10-14 20:15] Z≥oto: $4159.60 | M15: 0/5 | H1: 4/5 | Cooldown: 30
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 20:30] Z≥oto: $4164.80 | M15: 0/5 | H1: 4/5 | Cooldown: 31
+[2026-10-14 20:45] Z≥oto: $4160.60 | M15: 1/5 | H1: 1/5 | Cooldown: 32
+[2026-10-14 21:00] Z≥oto: $4167.10 | M15: 1/5 | H1: 1/5 | Cooldown: 33
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 21:15] Z≥oto: $4164.00 | M15: 1/5 | H1: 1/5 | Cooldown: 34
+[2026-10-14 21:30] Z≥oto: $4160.50 | M15: 1/5 | H1: 1/5 | Cooldown: 35
+[2026-10-14 21:45] Z≥oto: $4160.10 | M15: 1/5 | H1: 1/5 | Cooldown: 36
+[2026-10-14 22:00] Z≥oto: $4165.30 | M15: 1/5 | H1: 1/5 | Cooldown: 37
+[2026-10-14 22:15] Z≥oto: $4162.30 | M15: 1/5 | H1: 1/5 | Cooldown: 38
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-14 22:30] Z≥oto: $4165.40 | M15: 0/5 | H1: 1/5 | Cooldown: 39
+[2026-10-14 22:45] Z≥oto: $4181.00 | M15: 0/5 | H1: 2/5 | Cooldown: 40
+[2026-10-14 23:00] Z≥oto: $4175.40 | M15: 0/5 | H1: 2/5 | Cooldown: 41
+[2026-10-14 23:15] Z≥oto: $4169.00 | M15: 1/5 | H1: 2/5 | Cooldown: 42
+[2026-10-14 23:30] Z≥oto: $4172.00 | M15: 0/5 | H1: 2/5 | Cooldown: 43
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-13 23:45] Z≥oto: $4185.40 | M15: 2/5 | H1: 4/5 | Cooldown: 44
+[2026-10-13 23:30] Z≥oto: $4186.50 | M15: 2/5 | H1: 2/5 | Cooldown: 45
+[2026-10-14 23:45] Z≥oto: $4165.60 | M15: 0/5 | H1: 2/5 | Cooldown: 46
+[2026-10-15 00:00] Z≥oto: $4163.20 | M15: 0/5 | H1: 2/5 | Cooldown: 47
+[2026-10-15 00:15] Z≥oto: $4167.30 | M15: 0/5 | H1: 2/5 | Cooldown: 48
+[2026-10-15 00:30] Z≥oto: $4166.30 | M15: 0/5 | H1: 2/5 | Cooldown: 49
+[2026-10-15 00:45] Z≥oto: $4166.00 | M15: 0/5 | H1: 2/5 | Cooldown: 50
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 01:00] Z≥oto: $4166.30 | M15: 0/5 | H1: 2/5 | Cooldown: 51
+[2026-10-15 01:15] Z≥oto: $4163.30 | M15: 1/5 | H1: 2/5 | Cooldown: 52
+[2026-10-15 01:30] Z≥oto: $4161.70 | M15: 1/5 | H1: 2/5 | Cooldown: 53
+[2026-10-15 01:45] Z≥oto: $4159.20 | M15: 1/5 | H1: 2/5 | Cooldown: 54
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 02:00] Z≥oto: $4154.60 | M15: 3/5 | H1: 2/5 | Cooldown: 55
+[2026-10-15 02:15] Z≥oto: $4159.40 | M15: 2/5 | H1: 2/5 | Cooldown: 56
+[2026-10-15 02:30] Z≥oto: $4155.80 | M15: 3/5 | H1: 2/5 | Cooldown: 57
+[2026-10-15 02:45] Z≥oto: $4157.30 | M15: 2/5 | H1: 2/5 | Cooldown: 58
+[2026-10-15 03:00] Z≥oto: $4164.50 | M15: 1/5 | H1: 2/5 | Cooldown: 59
+[2026-10-15 03:15] Z≥oto: $4164.70 | M15: 1/5 | H1: 2/5 | Cooldown: 60
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 03:30] Z≥oto: $4164.70 | M15: 2/5 | H1: 2/5 | Cooldown: 61
+[2026-10-15 03:45] Z≥oto: $4167.30 | M15: 1/5 | H1: 3/5 | Cooldown: 62
+[2026-10-15 04:00] Z≥oto: $4175.30 | M15: 1/5 | H1: 3/5 | Cooldown: 63
+[2026-10-15 04:15] Z≥oto: $4177.20 | M15: 1/5 | H1: 3/5 | Cooldown: 64
+[2026-10-15 04:30] Z≥oto: $4172.00 | M15: 2/5 | H1: 3/5 | Cooldown: 65
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 04:45] Z≥oto: $4172.70 | M15: 2/5 | H1: 2/5 | Cooldown: 66
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 05:00] Z≥oto: $4178.80 | M15: 2/5 | H1: 2/5 | Cooldown: 67
+[2026-10-15 05:15] Z≥oto: $4180.00 | M15: 1/5 | H1: 2/5 | Cooldown: 68
+[2026-10-15 05:30] Z≥oto: $4179.60 | M15: 1/5 | H1: 2/5 | Cooldown: 69
+[2026-10-15 05:45] Z≥oto: $4178.60 | M15: 1/5 | H1: 2/5 | Cooldown: 70
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 06:00] Z≥oto: $4176.90 | M15: 2/5 | H1: 2/5 | Cooldown: 71
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 06:15] Z≥oto: $4175.00 | M15: 2/5 | H1: 2/5 | Cooldown: 72
+[2026-10-15 06:30] Z≥oto: $4174.50 | M15: 1/5 | H1: 2/5 | Cooldown: 73
+[2026-10-15 06:45] Z≥oto: $4176.40 | M15: 1/5 | H1: 2/5 | Cooldown: 74
+[2026-10-15 07:00] Z≥oto: $4179.50 | M15: 1/5 | H1: 2/5 | Cooldown: 75
+[2026-10-15 07:15] Z≥oto: $4178.10 | M15: 1/5 | H1: 2/5 | Cooldown: 76
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 07:30] Z≥oto: $4172.20 | M15: 2/5 | H1: 2/5 | Cooldown: 77
+[2026-10-15 07:45] Z≥oto: $4166.00 | M15: 3/5 | H1: 2/5 | Cooldown: 78
+[2026-10-15 08:00] Z≥oto: $4170.10 | M15: 2/5 | H1: 2/5 | Cooldown: 79
+[2026-10-15 08:15] Z≥oto: $4175.10 | M15: 1/5 | H1: 2/5 | Cooldown: 80
+[2026-10-15 08:30] Z≥oto: $4167.10 | M15: 3/5 | H1: 2/5 | Cooldown: 81
+[2026-10-15 08:45] Z≥oto: $4173.20 | M15: 2/5 | H1: 2/5 | Cooldown: 82
+[2026-10-15 09:00] Z≥oto: $4178.90 | M15: 1/5 | H1: 2/5 | Cooldown: 83
+[2026-10-15 09:15] Z≥oto: $4177.50 | M15: 1/5 | H1: 2/5 | Cooldown: 84
+[2026-10-15 09:30] Z≥oto: $4178.10 | M15: 1/5 | H1: 2/5 | Cooldown: 85
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 09:45] Z≥oto: $4175.80 | M15: 2/5 | H1: 2/5 | Cooldown: 86
+[2026-10-15 10:00] Z≥oto: $4169.30 | M15: 4/5 | H1: 2/5 | Cooldown: 87
+[2026-10-15 10:15] Z≥oto: $4177.70 | M15: 2/5 | H1: 2/5 | Cooldown: 88
+[2026-10-15 10:30] Z≥oto: $4178.20 | M15: 1/5 | H1: 2/5 | Cooldown: 89
+[2026-10-15 10:45] Z≥oto: $4178.90 | M15: 1/5 | H1: 2/5 | Cooldown: 90
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-15 11:00] Z≥oto: $4175.40 | M15: 1/5 | H1: 2/5 | Cooldown: 91
+[2026-10-15 11:15] Z≥oto: $4175.90 | M15: 2/5 | H1: 2/5 | Cooldown: 92
+[2026-10-15 11:30] Z≥oto: $4173.10 | M15: 3/5 | H1: 2/5 | Cooldown: 93
+[2026-10-15 11:45] Z≥oto: $4170.60 | M15: 3/5 | H1: 2/5 | Cooldown: 94
+[2026-10-15 12:00] Z≥oto: $4165.60 | M15: 3/5 | H1: 2/5 | Cooldown: 95
+[2026-10-15 12:15] Z≥oto: $4171.80 | M15: 2/5 | H1: 2/5 | Cooldown: 96
+[*] Rozpoczynam nas≈Çuch sygna≈Ç√≥w dla Z≈ÅOTA (GC=F)...
+[2026-10-20 15:15] Z≈Çoto: $4141.10 | M15: 4/5 | H1: 5/5 | Cooldown: 12
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-20 15:30] Z≈Çoto: $4139.40 | M15: 4/5 | H1: 5/5 | Cooldown: 1
+[2026-10-20 15:45] Z≈Çoto: $4138.70 | M15: 4/5 | H1: 5/5 | Cooldown: 2
+[2026-10-20 16:00] Z≈Çoto: $4141.80 | M15: 4/5 | H1: 5/5 | Cooldown: 3
+[2026-10-20 16:15] Z≈Çoto: $4139.60 | M15: 4/5 | H1: 5/5 | Cooldown: 4
+[2026-10-20 16:30] Z≈Çoto: $4141.10 | M15: 4/5 | H1: 5/5 | Cooldown: 5
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-20 16:45] Z≈Çoto: $4142.50 | M15: 1/5 | H1: 5/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-20 18:00] Z≈Çoto: $4144.90 | M15: 1/5 | H1: 5/5 | Cooldown: 7
+[2026-10-20 18:15] Z≈Çoto: $4148.40 | M15: 1/5 | H1: 5/5 | Cooldown: 8
+[2026-10-20 18:30] Z≈Çoto: $4140.70 | M15: 4/5 | H1: 5/5 | Cooldown: 9
+[2026-10-20 18:45] Z≈Çoto: $4138.20 | M15: 5/5 | H1: 5/5 | Cooldown: 10
+[2026-10-20 19:00] Z≈Çoto: $4136.50 | M15: 4/5 | H1: 5/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-20 19:15] Z≈Çoto: $4134.90 | M15: 4/5 | H1: 5/5 | Cooldown: 1
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-20 19:30] Z≈Çoto: $4132.90 | M15: 4/5 | H1: 5/5 | Cooldown: 2
+[2026-10-20 19:45] Z≈Çoto: $4132.50 | M15: 4/5 | H1: 5/5 | Cooldown: 3
+[2026-10-20 20:00] Z≈Çoto: $4135.60 | M15: 4/5 | H1: 5/5 | Cooldown: 4
+[2026-10-20 20:15] Z≈Çoto: $4137.40 | M15: 4/5 | H1: 5/5 | Cooldown: 5
+[2026-10-20 20:30] Z≈Çoto: $4138.40 | M15: 4/5 | H1: 5/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-20 20:45] Z≈Çoto: $4135.10 | M15: 4/5 | H1: 4/5 | Cooldown: 7
+[2026-10-20 21:00] Z≈Çoto: $4126.90 | M15: 4/5 | H1: 4/5 | Cooldown: 8
+[2026-10-20 21:15] Z≈Çoto: $4135.40 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-20 21:30] Z≈Çoto: $4135.20 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-20 21:45] Z≈Çoto: $4137.40 | M15: 3/5 | H1: 4/5 | Cooldown: 11
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-20 22:00] Z≈Çoto: $4137.30 | M15: 3/5 | H1: 4/5 | Cooldown: 12
+[2026-10-20 22:15] Z≈Çoto: $4134.20 | M15: 4/5 | H1: 4/5 | Cooldown: 13
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-20 22:30] Z≈Çoto: $4133.50 | M15: 5/5 | H1: 4/5 | Cooldown: 1
+[2026-10-20 22:45] Z≈Çoto: $4135.40 | M15: 5/5 | H1: 4/5 | Cooldown: 2
+[2026-10-20 23:00] Z≈Çoto: $4134.20 | M15: 5/5 | H1: 4/5 | Cooldown: 3
+[2026-10-20 23:15] Z≈Çoto: $4139.30 | M15: 2/5 | H1: 4/5 | Cooldown: 4
+[2026-10-20 23:30] Z≈Çoto: $4139.30 | M15: 2/5 | H1: 4/5 | Cooldown: 5
+[2026-10-20 22:15] Z≈Çoto: $4135.90 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+[2026-10-20 22:00] Z≈Çoto: $4137.30 | M15: 3/5 | H1: 4/5 | Cooldown: 7
+[2026-10-20 22:15] Z≈Çoto: $4135.90 | M15: 4/5 | H1: 4/5 | Cooldown: 8
+[2026-10-21 00:00] Z≈Çoto: $4140.90 | M15: 2/5 | H1: 4/5 | Cooldown: 9
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 00:15] Z≈Çoto: $4132.70 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-21 00:30] Z≈Çoto: $4133.60 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-21 00:45] Z≈Çoto: $4132.40 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-21 01:00] Z≈Çoto: $4137.60 | M15: 1/5 | H1: 4/5 | Cooldown: 2
+[2026-10-21 01:15] Z≈Çoto: $4146.30 | M15: 1/5 | H1: 4/5 | Cooldown: 3
+[2026-10-21 01:30] Z≈Çoto: $4136.30 | M15: 1/5 | H1: 4/5 | Cooldown: 4
+[2026-10-21 01:45] Z≈Çoto: $4136.10 | M15: 2/5 | H1: 4/5 | Cooldown: 5
+[2026-10-21 02:00] Z≈Çoto: $4134.80 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+[2026-10-21 02:15] Z≈Çoto: $4133.30 | M15: 3/5 | H1: 4/5 | Cooldown: 7
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 02:30] Z≈Çoto: $4132.10 | M15: 3/5 | H1: 4/5 | Cooldown: 8
+[2026-10-21 02:45] Z≈Çoto: $4130.10 | M15: 3/5 | H1: 4/5 | Cooldown: 9
+[2026-10-21 03:00] Z≈Çoto: $4132.40 | M15: 3/5 | H1: 4/5 | Cooldown: 10
+[2026-10-21 03:15] Z≈Çoto: $4142.80 | M15: 1/5 | H1: 4/5 | Cooldown: 11
+[2026-10-21 03:30] Z≈Çoto: $4138.80 | M15: 1/5 | H1: 4/5 | Cooldown: 12
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 03:45] Z≈Çoto: $4142.30 | M15: 1/5 | H1: 1/5 | Cooldown: 13
+[2026-10-21 04:00] Z≈Çoto: $4140.50 | M15: 1/5 | H1: 1/5 | Cooldown: 14
+[2026-10-21 04:15] Z≈Çoto: $4140.40 | M15: 2/5 | H1: 1/5 | Cooldown: 15
+[2026-10-21 04:30] Z≈Çoto: $4140.40 | M15: 1/5 | H1: 1/5 | Cooldown: 16
+[2026-10-21 04:45] Z≈Çoto: $4137.70 | M15: 1/5 | H1: 3/5 | Cooldown: 17
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 05:00] Z≈Çoto: $4142.60 | M15: 0/5 | H1: 3/5 | Cooldown: 18
+[2026-10-21 05:15] Z≈Çoto: $4141.00 | M15: 0/5 | H1: 3/5 | Cooldown: 19
+[2026-10-21 05:30] Z≈Çoto: $4140.70 | M15: 0/5 | H1: 3/5 | Cooldown: 20
+[2026-10-21 05:45] Z≈Çoto: $4136.60 | M15: 3/5 | H1: 3/5 | Cooldown: 21
+[2026-10-21 06:00] Z≈Çoto: $4132.80 | M15: 3/5 | H1: 3/5 | Cooldown: 22
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 06:15] Z≈Çoto: $4138.30 | M15: 1/5 | H1: 3/5 | Cooldown: 23
+[2026-10-21 06:30] Z≈Çoto: $4146.80 | M15: 0/5 | H1: 3/5 | Cooldown: 24
+[2026-10-21 06:45] Z≈Çoto: $4145.00 | M15: 0/5 | H1: 2/5 | Cooldown: 25
+[2026-10-21 07:00] Z≈Çoto: $4147.50 | M15: 0/5 | H1: 2/5 | Cooldown: 26
+[2026-10-21 07:15] Z≈Çoto: $4148.80 | M15: 0/5 | H1: 2/5 | Cooldown: 27
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 07:30] Z≈Çoto: $4156.90 | M15: 0/5 | H1: 2/5 | Cooldown: 28
+[2026-10-21 07:45] Z≈Çoto: $4158.70 | M15: 0/5 | H1: 1/5 | Cooldown: 29
+[2026-10-21 08:00] Z≈Çoto: $4155.60 | M15: 1/5 | H1: 1/5 | Cooldown: 30
+[2026-10-21 08:15] Z≈Çoto: $4149.70 | M15: 1/5 | H1: 1/5 | Cooldown: 31
+[2026-10-21 08:30] Z≈Çoto: $4144.90 | M15: 2/5 | H1: 1/5 | Cooldown: 32
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 08:45] Z≈Çoto: $4147.90 | M15: 2/5 | H1: 1/5 | Cooldown: 33
+[2026-10-21 09:00] Z≈Çoto: $4154.80 | M15: 1/5 | H1: 1/5 | Cooldown: 34
+[2026-10-21 09:15] Z≈Çoto: $4155.30 | M15: 0/5 | H1: 1/5 | Cooldown: 35
+[2026-10-21 09:30] Z≈Çoto: $4155.90 | M15: 0/5 | H1: 1/5 | Cooldown: 36
+[2026-10-21 09:45] Z≈Çoto: $4147.70 | M15: 1/5 | H1: 2/5 | Cooldown: 37
+[2026-10-21 10:00] Z≈Çoto: $4145.90 | M15: 2/5 | H1: 2/5 | Cooldown: 38
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 10:15] Z≈Çoto: $4151.80 | M15: 1/5 | H1: 2/5 | Cooldown: 39
+[2026-10-21 10:30] Z≈Çoto: $4147.20 | M15: 2/5 | H1: 2/5 | Cooldown: 40
+[2026-10-21 10:45] Z≈Çoto: $4148.50 | M15: 2/5 | H1: 3/5 | Cooldown: 41
+[2026-10-21 11:00] Z≈Çoto: $4145.50 | M15: 2/5 | H1: 3/5 | Cooldown: 42
+[2026-10-21 11:15] Z≈Çoto: $4157.60 | M15: 0/5 | H1: 3/5 | Cooldown: 43
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 11:30] Z≈Çoto: $4149.80 | M15: 1/5 | H1: 3/5 | Cooldown: 44
+[2026-10-21 11:45] Z≈Çoto: $4150.10 | M15: 1/5 | H1: 2/5 | Cooldown: 45
+[2026-10-21 12:00] Z≈Çoto: $4148.90 | M15: 1/5 | H1: 2/5 | Cooldown: 46
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 12:15] Z≈Çoto: $4151.20 | M15: 0/5 | H1: 2/5 | Cooldown: 47
+[2026-10-21 12:30] Z≈Çoto: $4152.70 | M15: 0/5 | H1: 2/5 | Cooldown: 48
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 12:45] Z≈Çoto: $4149.90 | M15: 1/5 | H1: 1/5 | Cooldown: 49
+[2026-10-21 13:00] Z≈Çoto: $4150.00 | M15: 1/5 | H1: 1/5 | Cooldown: 50
+[2026-10-21 13:15] Z≈Çoto: $4150.10 | M15: 1/5 | H1: 1/5 | Cooldown: 51
+[2026-10-21 13:30] Z≈Çoto: $4154.20 | M15: 0/5 | H1: 1/5 | Cooldown: 52
+[2026-10-21 13:45] Z≈Çoto: $4155.00 | M15: 0/5 | H1: 1/5 | Cooldown: 53
+Traceback (most recent call last):
+  File "D:\phyton\M15_tra_gold.py", line 156, in <module>
+    run_scanner()
+    ~~~~~~~~~~~^^
+  File "D:\phyton\M15_tra_gold.py", line 149, in run_scanner
+    time.sleep(20)
+    ~~~~~~~~~~^^^^
+KeyboardInterrupt
+[*] Rozpoczynam nas≈Çuch sygna≈Ç√≥w dla Z≈ÅOTA (GC=F)...
+[2026-10-21 14:15] Z≈Çoto: $4158.40 | M15: 0/5 | H1: 1/5 | Cooldown: 12
+[2026-10-21 14:30] Z≈Çoto: $4157.30 | M15: 0/5 | H1: 1/5 | Cooldown: 13
+[2026-10-21 14:45] Z≈Çoto: $4131.40 | M15: 4/5 | H1: 5/5 | Cooldown: 14
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-21 15:00] Z≈Çoto: $4134.80 | M15: 3/5 | H1: 5/5 | Cooldown: 1
+[2026-10-21 15:15] Z≈Çoto: $4144.10 | M15: 3/5 | H1: 5/5 | Cooldown: 2
+[2026-10-21 15:30] Z≈Çoto: $4151.40 | M15: 1/5 | H1: 5/5 | Cooldown: 3
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 15:45] Z≈Çoto: $4152.50 | M15: 1/5 | H1: 3/5 | Cooldown: 4
+[2026-10-21 16:00] Z≈Çoto: $4153.10 | M15: 1/5 | H1: 3/5 | Cooldown: 5
+[2026-10-21 16:15] Z≈Çoto: $4151.40 | M15: 1/5 | H1: 3/5 | Cooldown: 6
+[2026-10-21 16:30] Z≈Çoto: $4156.50 | M15: 0/5 | H1: 3/5 | Cooldown: 7
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 16:45] Z≈Çoto: $4159.50 | M15: 0/5 | H1: 3/5 | Cooldown: 8
+[2026-10-21 18:00] Z≈Çoto: $4155.60 | M15: 0/5 | H1: 3/5 | Cooldown: 9
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 18:15] Z≈Çoto: $4153.80 | M15: 1/5 | H1: 3/5 | Cooldown: 10
+[2026-10-21 18:30] Z≈Çoto: $4151.10 | M15: 2/5 | H1: 3/5 | Cooldown: 11
+[2026-10-21 18:45] Z≈Çoto: $4147.90 | M15: 4/5 | H1: 1/5 | Cooldown: 12
+[2026-10-21 19:00] Z≈Çoto: $4145.00 | M15: 4/5 | H1: 1/5 | Cooldown: 13
+[2026-10-21 19:15] Z≈Çoto: $4144.10 | M15: 4/5 | H1: 1/5 | Cooldown: 14
+[2026-10-21 19:30] Z≈Çoto: $4141.60 | M15: 3/5 | H1: 1/5 | Cooldown: 15
+[2026-10-21 19:45] Z≈Çoto: $4142.30 | M15: 4/5 | H1: 4/5 | Cooldown: 16
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-21 20:00] Z≈Çoto: $4137.60 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-21 20:15] Z≈Çoto: $4135.90 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 20:30] Z≈Çoto: $4133.80 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-21 20:45] Z≈Çoto: $4130.10 | M15: 4/5 | H1: 3/5 | Cooldown: 4
+[2026-10-21 21:00] Z≈Çoto: $4131.60 | M15: 4/5 | H1: 3/5 | Cooldown: 5
+[2026-10-21 21:15] Z≈Çoto: $4133.30 | M15: 4/5 | H1: 3/5 | Cooldown: 6
+[2026-10-21 21:30] Z≈Çoto: $4130.70 | M15: 4/5 | H1: 3/5 | Cooldown: 7
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 21:45] Z≈Çoto: $4131.60 | M15: 4/5 | H1: 4/5 | Cooldown: 8
+[2026-10-21 22:00] Z≈Çoto: $4128.30 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-21 22:15] Z≈Çoto: $4134.50 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-21 22:30] Z≈Çoto: $4133.30 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 22:45] Z≈Çoto: $4132.60 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-21 23:00] Z≈Çoto: $4124.10 | M15: 5/5 | H1: 4/5 | Cooldown: 2
+[2026-10-21 23:15] Z≈Çoto: $4116.10 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-21 23:30] Z≈Çoto: $4110.20 | M15: 3/5 | H1: 4/5 | Cooldown: 4
+[2026-10-21 23:15] Z≈Çoto: $4116.10 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-21 23:30] Z≈Çoto: $4110.20 | M15: 3/5 | H1: 4/5 | Cooldown: 6
+[2026-10-22 00:00] Z≈Çoto: $4107.60 | M15: 3/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 00:15] Z≈Çoto: $4105.90 | M15: 3/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 00:30] Z≈Çoto: $4105.90 | M15: 3/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 00:45] Z≈Çoto: $4107.10 | M15: 3/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 01:00] Z≈Çoto: $4103.00 | M15: 3/5 | H1: 4/5 | Cooldown: 11
+[2026-10-22 01:15] Z≈Çoto: $4103.80 | M15: 3/5 | H1: 4/5 | Cooldown: 12
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 01:30] Z≈Çoto: $4090.50 | M15: 3/5 | H1: 4/5 | Cooldown: 13
+[2026-10-22 01:45] Z≈Çoto: $4105.40 | M15: 4/5 | H1: 4/5 | Cooldown: 14
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-22 02:00] Z≈Çoto: $4113.20 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-22 02:15] Z≈Çoto: $4107.60 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 02:30] Z≈Çoto: $4106.10 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 02:45] Z≈Çoto: $4108.90 | M15: 5/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 03:00] Z≈Çoto: $4114.90 | M15: 3/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 03:15] Z≈Çoto: $4109.60 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+[2026-10-22 03:30] Z≈Çoto: $4106.70 | M15: 5/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 03:45] Z≈Çoto: $4103.80 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 04:00] Z≈Çoto: $4099.60 | M15: 5/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 04:15] Z≈Çoto: $4106.60 | M15: 5/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 04:30] Z≈Çoto: $4108.40 | M15: 3/5 | H1: 4/5 | Cooldown: 11
+[2026-10-22 04:45] Z≈Çoto: $4099.10 | M15: 4/5 | H1: 4/5 | Cooldown: 12
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-22 05:00] Z≈Çoto: $4105.60 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 05:15] Z≈Çoto: $4099.70 | M15: 5/5 | H1: 4/5 | Cooldown: 2
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 05:30] Z≈Çoto: $4101.80 | M15: 5/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 05:45] Z≈Çoto: $4104.30 | M15: 5/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 06:00] Z≈Çoto: $4103.30 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 06:15] Z≈Çoto: $4107.10 | M15: 2/5 | H1: 4/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 06:30] Z≈Çoto: $4104.00 | M15: 4/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 06:45] Z≈Çoto: $4096.10 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 07:00] Z≈Çoto: $4087.90 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 07:15] Z≈Çoto: $4078.10 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 07:30] Z≈Çoto: $4082.00 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 07:45] Z≈Çoto: $4074.80 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-22 08:00] Z≈Çoto: $4085.80 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 08:15] Z≈Çoto: $4088.40 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 08:30] Z≈Çoto: $4096.00 | M15: 3/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 08:45] Z≈Çoto: $4103.70 | M15: 1/5 | H1: 4/5 | Cooldown: 5
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 09:00] Z≈Çoto: $4092.50 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+[2026-10-22 09:15] Z≈Çoto: $4092.50 | M15: 5/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 09:30] Z≈Çoto: $4075.10 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 09:45] Z≈Çoto: $4071.70 | M15: 5/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 10:00] Z≈Çoto: $4066.30 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 10:15] Z≈Çoto: $4064.90 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-22 10:30] Z≈Çoto: $4074.60 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-22 10:45] Z≈Çoto: $4074.90 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 11:00] Z≈Çoto: $4070.50 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 11:15] Z≈Çoto: $4067.30 | M15: 4/5 | H1: 4/5 | Cooldown: 4
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 11:30] Z≈Çoto: $4065.70 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 11:45] Z≈Çoto: $4066.90 | M15: 4/5 | H1: 5/5 | Cooldown: 6
+[2026-10-22 12:00] Z≈Çoto: $4062.90 | M15: 4/5 | H1: 5/5 | Cooldown: 7
+[2026-10-22 12:15] Z≈Çoto: $4063.20 | M15: 4/5 | H1: 5/5 | Cooldown: 8
+[2026-10-22 12:30] Z≈Çoto: $4057.50 | M15: 4/5 | H1: 5/5 | Cooldown: 9
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 12:45] Z≈Çoto: $4053.20 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 13:00] Z≈Çoto: $4055.30 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≈Ç SHORT dla z≈Çota wykryty! Wysy≈Çam na Telegram...
+[2026-10-22 13:15] Z≈Çoto: $4060.00 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-22 13:30] Z≈Çoto: $4062.00 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 13:45] Z≈Çoto: $4061.20 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 14:00] Z≈Çoto: $4051.80 | M15: 5/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 14:15] Z≈Çoto: $4052.60 | M15: 5/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 14:30] Z≈Çoto: $4049.00 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+Traceback (most recent call last):
+  File "D:\phyton\M15_tra_gold.py", line 156, in <module>
+    run_scanner()
+    ~~~~~~~~~~~^^
+  File "D:\phyton\M15_tra_gold.py", line 149, in run_scanner
+    time.sleep(20)
+    ~~~~~~~~~~^^^^
+KeyboardInterrupt
+[*] Rozpoczynam nas≥uch sygna≥Ûw dla Z£OTA (GC=F)...
+[2026-10-22 15:30] Z≥oto: $4038.90 | M15: 4/5 | H1: 4/5 | Cooldown: 12
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-22 15:45] Z≥oto: $4044.00 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+[2026-10-22 16:00] Z≥oto: $4039.40 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 16:15] Z≥oto: $4038.30 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 16:30] Z≥oto: $4039.30 | M15: 5/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 16:45] Z≥oto: $4039.80 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 18:00] Z≥oto: $4042.10 | M15: 4/5 | H1: 4/5 | Cooldown: 6
+[2026-10-22 18:15] Z≥oto: $4045.00 | M15: 4/5 | H1: 4/5 | Cooldown: 7
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 18:30] Z≥oto: $4046.60 | M15: 4/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 18:45] Z≥oto: $4042.90 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 19:00] Z≥oto: $4041.00 | M15: 5/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 19:15] Z≥oto: $4042.70 | M15: 5/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-22 19:30] Z≥oto: $4039.90 | M15: 5/5 | H1: 4/5 | Cooldown: 1
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 19:45] Z≥oto: $4038.50 | M15: 5/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 20:00] Z≥oto: $4041.40 | M15: 5/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 20:15] Z≥oto: $4033.20 | M15: 5/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 20:30] Z≥oto: $4035.30 | M15: 5/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 20:45] Z≥oto: $4045.60 | M15: 1/5 | H1: 4/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 21:00] Z≥oto: $4026.60 | M15: 4/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 21:15] Z≥oto: $4028.70 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 21:30] Z≥oto: $4025.20 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-22 21:45] Z≥oto: $4006.20 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-22 22:00] Z≥oto: $4027.50 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-22 22:15] Z≥oto: $4027.80 | M15: 4/5 | H1: 4/5 | Cooldown: 1
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 22:30] Z≥oto: $4033.30 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-22 22:45] Z≥oto: $4032.30 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-22 23:00] Z≥oto: $4029.70 | M15: 4/5 | H1: 4/5 | Cooldown: 4
+[2026-10-22 23:15] Z≥oto: $4032.70 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-22 23:30] Z≥oto: $4031.00 | M15: 5/5 | H1: 4/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-22 20:00] Z≥oto: $4037.90 | M15: 5/5 | H1: 4/5 | Cooldown: 7
+[2026-10-22 19:45] Z≥oto: $4038.50 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+[2026-10-22 20:00] Z≥oto: $4037.90 | M15: 5/5 | H1: 4/5 | Cooldown: 9
+[2026-10-23 00:00] Z≥oto: $4024.40 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+[2026-10-23 00:15] Z≥oto: $4020.20 | M15: 3/5 | H1: 4/5 | Cooldown: 11
+[2026-10-23 00:30] Z≥oto: $4018.10 | M15: 3/5 | H1: 4/5 | Cooldown: 12
+[2026-10-23 00:45] Z≥oto: $4018.70 | M15: 3/5 | H1: 4/5 | Cooldown: 13
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 01:00] Z≥oto: $4029.40 | M15: 2/5 | H1: 4/5 | Cooldown: 14
+[2026-10-23 01:15] Z≥oto: $4025.50 | M15: 4/5 | H1: 4/5 | Cooldown: 15
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-23 01:30] Z≥oto: $4037.60 | M15: 1/5 | H1: 4/5 | Cooldown: 1
+[2026-10-23 01:45] Z≥oto: $4035.70 | M15: 1/5 | H1: 4/5 | Cooldown: 2
+[2026-10-23 02:00] Z≥oto: $4033.00 | M15: 1/5 | H1: 4/5 | Cooldown: 3
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 02:15] Z≥oto: $4029.70 | M15: 3/5 | H1: 4/5 | Cooldown: 4
+[2026-10-23 02:30] Z≥oto: $4029.00 | M15: 4/5 | H1: 4/5 | Cooldown: 5
+[2026-10-23 02:45] Z≥oto: $4026.90 | M15: 5/5 | H1: 4/5 | Cooldown: 6
+[2026-10-23 03:00] Z≥oto: $4029.50 | M15: 3/5 | H1: 4/5 | Cooldown: 7
+[2026-10-23 03:15] Z≥oto: $4030.20 | M15: 2/5 | H1: 4/5 | Cooldown: 8
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 03:30] Z≥oto: $4033.50 | M15: 1/5 | H1: 4/5 | Cooldown: 9
+[2026-10-23 03:45] Z≥oto: $4025.70 | M15: 5/5 | H1: 4/5 | Cooldown: 10
+[2026-10-23 04:00] Z≥oto: $4027.80 | M15: 5/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-23 04:15] Z≥oto: $4029.60 | M15: 2/5 | H1: 4/5 | Cooldown: 1
+[2026-10-23 04:30] Z≥oto: $4036.90 | M15: 1/5 | H1: 4/5 | Cooldown: 2
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 04:45] Z≥oto: $4037.20 | M15: 1/5 | H1: 4/5 | Cooldown: 3
+[2026-10-23 05:00] Z≥oto: $4040.80 | M15: 1/5 | H1: 4/5 | Cooldown: 4
+[2026-10-23 05:15] Z≥oto: $4040.90 | M15: 1/5 | H1: 4/5 | Cooldown: 5
+[2026-10-23 05:30] Z≥oto: $4037.90 | M15: 1/5 | H1: 4/5 | Cooldown: 6
+[2026-10-23 05:45] Z≥oto: $4038.10 | M15: 1/5 | H1: 4/5 | Cooldown: 7
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 06:00] Z≥oto: $4038.70 | M15: 1/5 | H1: 4/5 | Cooldown: 8
+[2026-10-23 06:15] Z≥oto: $4040.10 | M15: 0/5 | H1: 4/5 | Cooldown: 9
+[2026-10-23 06:30] Z≥oto: $4038.30 | M15: 0/5 | H1: 4/5 | Cooldown: 10
+[2026-10-23 06:45] Z≥oto: $4037.70 | M15: 1/5 | H1: 4/5 | Cooldown: 11
+[2026-10-23 07:00] Z≥oto: $4043.00 | M15: 0/5 | H1: 4/5 | Cooldown: 12
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 07:15] Z≥oto: $4042.00 | M15: 0/5 | H1: 4/5 | Cooldown: 13
+[2026-10-23 07:30] Z≥oto: $4039.00 | M15: 1/5 | H1: 4/5 | Cooldown: 14
+[2026-10-23 07:45] Z≥oto: $4038.80 | M15: 1/5 | H1: 3/5 | Cooldown: 15
+[2026-10-23 08:00] Z≥oto: $4036.40 | M15: 1/5 | H1: 3/5 | Cooldown: 16
+[2026-10-23 08:15] Z≥oto: $4041.80 | M15: 0/5 | H1: 3/5 | Cooldown: 17
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 08:30] Z≥oto: $4041.40 | M15: 0/5 | H1: 3/5 | Cooldown: 18
+[2026-10-23 08:45] Z≥oto: $4040.30 | M15: 0/5 | H1: 3/5 | Cooldown: 19
+[2026-10-23 09:00] Z≥oto: $4047.10 | M15: 0/5 | H1: 3/5 | Cooldown: 20
+[2026-10-23 09:15] Z≥oto: $4040.40 | M15: 1/5 | H1: 3/5 | Cooldown: 21
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 09:30] Z≥oto: $4037.80 | M15: 2/5 | H1: 3/5 | Cooldown: 22
+[2026-10-23 09:45] Z≥oto: $4037.00 | M15: 2/5 | H1: 4/5 | Cooldown: 23
+[2026-10-23 10:00] Z≥oto: $4021.70 | M15: 3/5 | H1: 4/5 | Cooldown: 24
+[2026-10-23 10:15] Z≥oto: $3991.50 | M15: 2/5 | H1: 4/5 | Cooldown: 25
+[2026-10-23 10:30] Z≥oto: $4014.60 | M15: 4/5 | H1: 4/5 | Cooldown: 26
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 10:45] Z≥oto: $4014.20 | M15: 4/5 | H1: 5/5 | Cooldown: 1
+[2026-10-23 11:00] Z≥oto: $4009.20 | M15: 4/5 | H1: 5/5 | Cooldown: 2
+[2026-10-23 11:15] Z≥oto: $4010.60 | M15: 4/5 | H1: 5/5 | Cooldown: 3
+[2026-10-23 11:30] Z≥oto: $4009.50 | M15: 5/5 | H1: 5/5 | Cooldown: 4
+[2026-10-23 11:45] Z≥oto: $4017.30 | M15: 4/5 | H1: 5/5 | Cooldown: 5
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 12:00] Z≥oto: $4018.60 | M15: 4/5 | H1: 5/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 12:15] Z≥oto: $4015.30 | M15: 4/5 | H1: 5/5 | Cooldown: 7
+[2026-10-23 12:30] Z≥oto: $4016.30 | M15: 4/5 | H1: 5/5 | Cooldown: 8
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 12:45] Z≥oto: $4014.60 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-23 13:00] Z≥oto: $4010.80 | M15: 4/5 | H1: 4/5 | Cooldown: 10
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 13:15] Z≥oto: $4007.40 | M15: 4/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+[2026-10-23 13:30] Z≥oto: $4007.00 | M15: 5/5 | H1: 4/5 | Cooldown: 1
+[2026-10-23 13:45] Z≥oto: $4013.50 | M15: 4/5 | H1: 4/5 | Cooldown: 2
+[2026-10-23 14:00] Z≥oto: $4013.20 | M15: 4/5 | H1: 4/5 | Cooldown: 3
+[2026-10-23 14:15] Z≥oto: $4015.70 | M15: 3/5 | H1: 4/5 | Cooldown: 4
+[2026-10-23 14:30] Z≥oto: $4010.70 | M15: 5/5 | H1: 4/5 | Cooldown: 5
+[2026-10-23 14:45] Z≥oto: $4012.00 | M15: 5/5 | H1: 4/5 | Cooldown: 6
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 15:00] Z≥oto: $4010.00 | M15: 5/5 | H1: 4/5 | Cooldown: 7
+[2026-10-23 15:15] Z≥oto: $4012.10 | M15: 5/5 | H1: 4/5 | Cooldown: 8
+[2026-10-23 15:30] Z≥oto: $4012.50 | M15: 4/5 | H1: 4/5 | Cooldown: 9
+[2026-10-23 15:45] Z≥oto: $4013.40 | M15: 3/5 | H1: 4/5 | Cooldown: 10
+[2026-10-23 16:00] Z≥oto: $4009.80 | M15: 5/5 | H1: 4/5 | Cooldown: 11
+[!] Sygna≥ SHORT dla z≥ota wykryty! Wysy≥am na Telegram...
+$GC=F: possibly delisted; no price data found  (period=5d)
+[2026-10-23 16:15] Z≥oto: $4010.60 | M15: 5/5 | H1: 4/5 | Cooldown: 1
+[2026-10-23 16:30] Z≥oto: $4007.80 | M15: 5/5 | H1: 4/5 | Cooldown: 2
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)
+$GC=F: possibly delisted; no price data found  (period=5d)

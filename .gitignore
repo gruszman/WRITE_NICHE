@@ -1,0 +1,9 @@
+miniconda_installer.exe 
+python-manager-26.3.msix 
+docker-29.9.2.zip 
+docker/ 
+*.exe 
+*.zip 
+*.msix 
+*.log 
+__pycache__/ 
