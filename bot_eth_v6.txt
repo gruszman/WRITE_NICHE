@@ -1780,3 +1780,1453 @@
 
 
 [11:11:50] Zatrzymano monitorowanie giełdy BINANCE.
+
+[2026-10-28 17:35:47] 🚀 Uruchomiono system KRYPTO MTF V6 na BINANCE dla ETH/USDT
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 17:36:06
+💰 Symbol: ETH/USDT | Aktualna cena: $2334.61
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  29.97 (Próg > 20)
+📉 RSI (14):  34.36 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: BRAK POZYCJI ⚪
+✅ Status: AKTYWNY (Ostatnia świeca: 16:15)
+=======================================================
+
+[17:36:06] 📊 M15 | Cena: 2333.39 | RSI: 34.36 | ADX: 29.97 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[17:45:04] 📊 M15 | Cena: 2330.12 | RSI: 31.16 | ADX: 29.75 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[18:00:06] 📊 M15 | Cena: 2335.56 | RSI: 41.00 | ADX: 28.32 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 18:07:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2333.10
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  28.32 (Próg > 20)
+📉 RSI (14):  41.00 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: BRAK POZYCJI ⚪
+✅ Status: AKTYWNY (Ostatnia świeca: 16:45)
+=======================================================
+
+[18:15:04] 📊 M15 | Cena: 2333.20 | RSI: 38.43 | ADX: 26.99 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[18:30:04] 📊 M15 | Cena: 2333.70 | RSI: 39.30 | ADX: 25.49 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 18:37:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2338.07
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  25.49 (Próg > 20)
+📉 RSI (14):  39.30 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: BRAK POZYCJI ⚪
+✅ Status: AKTYWNY (Ostatnia świeca: 17:15)
+=======================================================
+
+[18:45:04] 📊 M15 | Cena: 2342.01 | RSI: 51.52 | ADX: 24.29 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[19:00:11] 📊 M15 | Cena: 2344.93 | RSI: 54.96 | ADX: 23.99 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 19:08:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2342.33
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  23.99 (Próg > 20)
+📉 RSI (14):  54.96 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: BRAK POZYCJI ⚪
+✅ Status: AKTYWNY (Ostatnia świeca: 17:45)
+=======================================================
+
+[19:15:04] 📊 M15 | Cena: 2346.47 | RSI: 56.70 | ADX: 24.66 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[19:30:04] 📊 M15 | Cena: 2348.16 | RSI: 58.59 | ADX: 25.04 | Trend H1: Bull 🟢 ➡️ WYGENEROWANO SYGNAŁ LONG 🟢
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 19:38:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2361.48
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  25.04 (Próg > 20)
+📉 RSI (14):  58.59 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 18:15)
+=======================================================
+
+[19:45:04] 📊 M15 | Cena: 2357.85 | RSI: 67.39 | ADX: 26.95 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[20:00:05] 📊 M15 | Cena: 2355.05 | RSI: 63.21 | ADX: 28.73 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 20:09:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2359.73
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  28.73 (Próg > 20)
+📉 RSI (14):  63.21 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 18:45)
+=======================================================
+
+[20:15:04] 📊 M15 | Cena: 2358.11 | RSI: 65.71 | ADX: 30.47 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[20:30:04] 📊 M15 | Cena: 2358.60 | RSI: 66.11 | ADX: 32.09 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 20:40:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2359.95
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  32.09 (Próg > 20)
+📉 RSI (14):  66.11 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 19:15)
+=======================================================
+
+[20:45:04] 📊 M15 | Cena: 2364.24 | RSI: 70.37 | ADX: 33.90 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[21:00:05] 📊 M15 | Cena: 2371.51 | RSI: 74.77 | ADX: 35.95 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 21:10:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2375.12
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  35.95 (Próg > 20)
+📉 RSI (14):  74.77 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 19:45)
+=======================================================
+
+[21:15:04] 📊 M15 | Cena: 2366.90 | RSI: 67.88 | ADX: 38.60 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[21:30:04] 📊 M15 | Cena: 2352.88 | RSI: 52.15 | ADX: 38.58 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 21:41:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2350.00
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  38.58 (Próg > 20)
+📉 RSI (14):  52.15 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 20:15)
+=======================================================
+
+[21:45:04] 📊 M15 | Cena: 2352.62 | RSI: 51.91 | ADX: 38.35 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[22:00:05] 📊 M15 | Cena: 2360.92 | RSI: 58.49 | ADX: 38.32 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 22:12:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2359.14
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  38.32 (Próg > 20)
+📉 RSI (14):  58.49 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 20:45)
+=======================================================
+
+[22:15:04] 📊 M15 | Cena: 2361.88 | RSI: 59.18 | ADX: 38.56 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[22:30:04] 📊 M15 | Cena: 2358.69 | RSI: 55.84 | ADX: 39.12 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 22:42:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2360.02
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  39.12 (Próg > 20)
+📉 RSI (14):  55.84 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 21:15)
+=======================================================
+
+[22:45:04] 📊 M15 | Cena: 2361.41 | RSI: 58.02 | ADX: 39.14 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[23:00:05] 📊 M15 | Cena: 2364.72 | RSI: 60.57 | ADX: 39.55 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 23:13:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2359.78
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  39.55 (Próg > 20)
+📉 RSI (14):  60.57 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 21:45)
+=======================================================
+
+[23:15:04] 📊 M15 | Cena: 2359.79 | RSI: 55.19 | ADX: 39.26 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[23:30:04] 📊 M15 | Cena: 2358.86 | RSI: 54.21 | ADX: 38.80 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-28 23:44:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2361.08
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  38.80 (Próg > 20)
+📉 RSI (14):  54.21 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 22:15)
+=======================================================
+
+[23:45:04] 📊 M15 | Cena: 2362.24 | RSI: 57.18 | ADX: 38.89 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[00:00:06] 📊 M15 | Cena: 2360.30 | RSI: 54.98 | ADX: 38.97 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 00:15:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2361.47
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  38.31 (Próg > 20)
+📉 RSI (14):  56.40 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 23:00)
+=======================================================
+
+[00:15:04] 📊 M15 | Cena: 2361.82 | RSI: 56.40 | ADX: 38.31 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[00:30:04] 📊 M15 | Cena: 2361.47 | RSI: 55.96 | ADX: 37.70 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[00:45:04] 📊 M15 | Cena: 2358.71 | RSI: 52.50 | ADX: 37.10 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 00:46:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2359.89
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  37.10 (Próg > 20)
+📉 RSI (14):  52.50 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 23:30)
+=======================================================
+
+[01:00:06] 📊 M15 | Cena: 2359.68 | RSI: 53.59 | ADX: 36.28 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[01:15:04] 📊 M15 | Cena: 2358.82 | RSI: 52.44 | ADX: 35.63 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 01:17:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2357.94
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  35.63 (Próg > 20)
+📉 RSI (14):  52.44 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 00:00)
+=======================================================
+
+[01:30:04] 📊 M15 | Cena: 2357.20 | RSI: 50.27 | ADX: 34.56 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[01:45:04] 📊 M15 | Cena: 2357.09 | RSI: 50.12 | ADX: 33.58 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 01:48:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2356.89
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  33.58 (Próg > 20)
+📉 RSI (14):  50.12 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 00:30)
+=======================================================
+
+[02:00:07] 📊 M15 | Cena: 2354.51 | RSI: 46.56 | ADX: 32.52 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[02:15:04] 📊 M15 | Cena: 2347.52 | RSI: 38.57 | ADX: 30.66 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 02:18:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2348.77
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  30.66 (Próg > 20)
+📉 RSI (14):  38.57 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 01:00)
+=======================================================
+
+[02:30:04] 📊 M15 | Cena: 2346.00 | RSI: 37.08 | ADX: 28.93 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[02:45:04] 📊 M15 | Cena: 2332.33 | RSI: 26.99 | ADX: 28.97 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 02:48:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2326.91
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  28.97 (Próg > 20)
+📉 RSI (14):  26.99 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 01:30)
+=======================================================
+
+[03:00:04] 📊 M15 | Cena: 2314.29 | RSI: 19.46 | ADX: 30.21 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[03:15:04] 📊 M15 | Cena: 2304.13 | RSI: 16.64 | ADX: 31.76 | Trend H1: Bear 🔴 ➡️ WYGENEROWANO SYGNAŁ SHORT 🔴
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 03:19:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2309.09
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  31.76 (Próg > 20)
+📉 RSI (14):  16.64 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 02:00)
+=======================================================
+
+[03:30:04] 📊 M15 | Cena: 2304.98 | RSI: 17.71 | ADX: 33.27 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[03:45:04] 📊 M15 | Cena: 2300.13 | RSI: 16.42 | ADX: 35.03 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 03:50:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2305.85
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  35.03 (Próg > 20)
+📉 RSI (14):  16.42 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 02:30)
+=======================================================
+
+[04:00:05] 📊 M15 | Cena: 2312.19 | RSI: 30.13 | ADX: 35.61 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[04:15:04] 📊 M15 | Cena: 2308.31 | RSI: 28.51 | ADX: 36.05 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 04:20:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2309.48
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  36.05 (Próg > 20)
+📉 RSI (14):  28.51 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 03:00)
+=======================================================
+
+[04:30:04] 📊 M15 | Cena: 2304.65 | RSI: 27.03 | ADX: 36.68 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[04:45:04] 📊 M15 | Cena: 2308.80 | RSI: 31.37 | ADX: 37.27 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 04:51:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2308.21
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  37.27 (Próg > 20)
+📉 RSI (14):  31.37 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 03:30)
+=======================================================
+
+[05:00:06] 📊 M15 | Cena: 2309.03 | RSI: 31.62 | ADX: 37.83 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[05:15:04] 📊 M15 | Cena: 2309.16 | RSI: 31.76 | ADX: 38.42 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 05:22:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2310.48
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  38.42 (Próg > 20)
+📉 RSI (14):  31.76 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 04:00)
+=======================================================
+
+[05:30:04] 📊 M15 | Cena: 2311.68 | RSI: 34.69 | ADX: 38.26 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[05:45:04] 📊 M15 | Cena: 2318.70 | RSI: 42.15 | ADX: 36.99 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 05:52:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2319.35
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  36.99 (Próg > 20)
+📉 RSI (14):  42.15 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 04:30)
+=======================================================
+
+[06:00:05] 📊 M15 | Cena: 2321.64 | RSI: 44.98 | ADX: 35.23 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[06:15:04] 📊 M15 | Cena: 2333.10 | RSI: 54.36 | ADX: 33.11 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 06:22:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2330.89
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  33.11 (Próg > 20)
+📉 RSI (14):  54.36 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 05:00)
+=======================================================
+
+[06:30:04] 📊 M15 | Cena: 2328.29 | RSI: 50.47 | ADX: 31.14 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[06:45:04] 📊 M15 | Cena: 2327.56 | RSI: 49.89 | ADX: 29.32 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 06:52:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2326.56
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  29.32 (Próg > 20)
+📉 RSI (14):  49.89 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 05:30)
+=======================================================
+
+[07:00:05] 📊 M15 | Cena: 2323.07 | RSI: 46.34 | ADX: 27.25 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[07:15:04] 📊 M15 | Cena: 2317.78 | RSI: 42.50 | ADX: 26.01 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 07:23:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2311.73
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  26.01 (Próg > 20)
+📉 RSI (14):  42.50 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 06:00)
+=======================================================
+
+[07:30:04] 📊 M15 | Cena: 2317.55 | RSI: 42.34 | ADX: 25.44 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[07:45:04] 📊 M15 | Cena: 2314.14 | RSI: 39.88 | ADX: 24.91 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 07:54:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2312.62
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  24.91 (Próg > 20)
+📉 RSI (14):  39.88 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 06:30)
+=======================================================
+
+[08:00:05] 📊 M15 | Cena: 2313.50 | RSI: 39.42 | ADX: 24.74 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[08:15:04] 📊 M15 | Cena: 2308.90 | RSI: 36.17 | ADX: 24.79 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 08:25:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2309.25
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  24.79 (Próg > 20)
+📉 RSI (14):  36.17 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 07:00)
+=======================================================
+
+[08:30:04] 📊 M15 | Cena: 2306.40 | RSI: 34.51 | ADX: 25.07 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[08:45:04] 📊 M15 | Cena: 2308.89 | RSI: 37.59 | ADX: 25.34 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 08:56:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2312.04
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  25.34 (Próg > 20)
+📉 RSI (14):  37.59 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 07:30)
+=======================================================
+
+[09:00:05] 📊 M15 | Cena: 2310.36 | RSI: 39.40 | ADX: 25.11 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[09:15:04] 📊 M15 | Cena: 2316.11 | RSI: 46.00 | ADX: 23.38 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 09:27:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2315.95
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  23.38 (Próg > 20)
+📉 RSI (14):  46.00 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 08:00)
+=======================================================
+
+[09:30:04] 📊 M15 | Cena: 2315.51 | RSI: 45.44 | ADX: 21.77 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[09:45:04] 📊 M15 | Cena: 2315.88 | RSI: 45.88 | ADX: 20.28 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 09:57:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2320.78
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  20.28 (Próg > 20)
+📉 RSI (14):  45.88 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 08:30)
+=======================================================
+
+[10:00:05] 📊 M15 | Cena: 2319.38 | RSI: 49.94 | ADX: 19.28 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[10:15:04] 📊 M15 | Cena: 2321.48 | RSI: 52.26 | ADX: 18.29 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 10:27:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2323.07
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  18.29 (Próg > 20)
+📉 RSI (14):  52.26 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 09:00)
+=======================================================
+
+[10:30:04] 📊 M15 | Cena: 2319.73 | RSI: 50.17 | ADX: 17.37 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[10:45:04] 📊 M15 | Cena: 2321.50 | RSI: 52.25 | ADX: 16.18 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 10:58:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2322.62
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  16.18 (Próg > 20)
+📉 RSI (14):  52.25 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 09:30)
+=======================================================
+
+[11:00:05] 📊 M15 | Cena: 2321.52 | RSI: 52.27 | ADX: 15.22 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[11:15:04] 📊 M15 | Cena: 2318.82 | RSI: 48.69 | ADX: 14.26 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 11:29:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2318.01
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  14.26 (Próg > 20)
+📉 RSI (14):  48.69 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 10:00)
+=======================================================
+
+[11:30:04] 📊 M15 | Cena: 2318.08 | RSI: 47.72 | ADX: 13.55 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[11:45:04] 📊 M15 | Cena: 2324.27 | RSI: 55.65 | ADX: 13.32 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 11:59:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2327.57
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  13.32 (Próg > 20)
+📉 RSI (14):  55.65 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 10:30)
+=======================================================
+
+[12:00:06] 📊 M15 | Cena: 2328.89 | RSI: 60.46 | ADX: 13.76 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[12:15:04] 📊 M15 | Cena: 2325.88 | RSI: 56.18 | ADX: 14.00 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 12:29:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2323.67
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  14.00 (Próg > 20)
+📉 RSI (14):  56.18 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 11:00)
+=======================================================
+
+[12:30:04] 📊 M15 | Cena: 2323.07 | RSI: 52.45 | ADX: 14.15 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[12:45:04] 📊 M15 | Cena: 2326.19 | RSI: 55.95 | ADX: 14.36 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 12:59:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2325.62
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  14.36 (Próg > 20)
+📉 RSI (14):  55.95 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 11:30)
+=======================================================
+
+[13:00:07] 📊 M15 | Cena: 2325.28 | RSI: 54.69 | ADX: 14.64 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[13:15:04] 📊 M15 | Cena: 2322.98 | RSI: 51.52 | ADX: 14.15 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 13:29:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2323.81
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  14.15 (Próg > 20)
+📉 RSI (14):  51.52 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 12:00)
+=======================================================
+
+[13:30:04] 📊 M15 | Cena: 2324.03 | RSI: 52.86 | ADX: 13.71 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[13:45:04] 📊 M15 | Cena: 2323.08 | RSI: 51.47 | ADX: 13.18 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 13:59:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2321.93
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  13.18 (Próg > 20)
+📉 RSI (14):  51.47 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 12:30)
+=======================================================
+
+[14:00:06] 📊 M15 | Cena: 2323.11 | RSI: 51.51 | ADX: 12.68 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[14:15:05] 📊 M15 | Cena: 2325.79 | RSI: 55.35 | ADX: 12.21 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 14:29:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2329.31
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  12.21 (Próg > 20)
+📉 RSI (14):  55.35 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 13:00)
+=======================================================
+
+[14:30:04] 📊 M15 | Cena: 2328.97 | RSI: 59.45 | ADX: 12.25 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[14:45:04] 📊 M15 | Cena: 2316.65 | RSI: 42.98 | ADX: 12.50 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 15:00:06
+💰 Symbol: ETH/USDT | Aktualna cena: $2327.41
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  12.44 (Próg > 20)
+📉 RSI (14):  54.60 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 13:45)
+=======================================================
+
+[15:00:06] 📊 M15 | Cena: 2327.22 | RSI: 54.60 | ADX: 12.44 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[15:15:04] 📊 M15 | Cena: 2329.86 | RSI: 56.96 | ADX: 12.38 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[15:30:04] 📊 M15 | Cena: 2329.43 | RSI: 56.45 | ADX: 11.83 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 15:31:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2332.77
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  11.83 (Próg > 20)
+📉 RSI (14):  56.45 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 14:15)
+=======================================================
+
+[15:45:04] 📊 M15 | Cena: 2346.74 | RSI: 68.70 | ADX: 13.40 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[16:00:07] 📊 M15 | Cena: 2344.73 | RSI: 66.37 | ADX: 14.86 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 16:01:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2347.62
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  14.86 (Próg > 20)
+📉 RSI (14):  66.37 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 14:45)
+=======================================================
+
+[16:15:05] 📊 M15 | Cena: 2364.36 | RSI: 75.22 | ADX: 17.48 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[16:30:04] 📊 M15 | Cena: 2357.57 | RSI: 68.50 | ADX: 20.02 | Trend H1: Bull 🟢 ➡️ WYGENEROWANO SYGNAŁ LONG 🟢
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 16:32:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2360.27
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  20.02 (Próg > 20)
+📉 RSI (14):  68.50 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 15:15)
+=======================================================
+
+[16:45:04] 📊 M15 | Cena: 2367.62 | RSI: 72.43 | ADX: 22.54 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[17:00:06] 📊 M15 | Cena: 2369.06 | RSI: 72.95 | ADX: 25.04 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 17:03:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2364.25
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  25.04 (Próg > 20)
+📉 RSI (14):  72.95 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 15:45)
+=======================================================
+
+[17:15:04] 📊 M15 | Cena: 2368.10 | RSI: 71.97 | ADX: 27.68 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[17:30:04] 📊 M15 | Cena: 2357.66 | RSI: 62.23 | ADX: 28.74 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 17:34:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2354.38
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  28.74 (Próg > 20)
+📉 RSI (14):  62.23 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 16:15)
+=======================================================
+
+[17:45:04] 📊 M15 | Cena: 2358.57 | RSI: 62.71 | ADX: 29.03 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[18:00:07] 📊 M15 | Cena: 2353.20 | RSI: 58.08 | ADX: 29.30 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 18:05:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2354.42
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  29.30 (Próg > 20)
+📉 RSI (14):  58.08 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 16:45)
+=======================================================
+
+[18:15:04] 📊 M15 | Cena: 2350.01 | RSI: 55.46 | ADX: 29.28 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[18:30:04] 📊 M15 | Cena: 2350.66 | RSI: 55.89 | ADX: 28.91 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 18:36:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2349.08
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  28.91 (Próg > 20)
+📉 RSI (14):  55.89 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 17:15)
+=======================================================
+
+[18:45:04] 📊 M15 | Cena: 2339.49 | RSI: 47.31 | ADX: 26.88 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[19:00:07] 📊 M15 | Cena: 2341.43 | RSI: 48.78 | ADX: 25.33 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 19:06:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2340.55
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  25.33 (Próg > 20)
+📉 RSI (14):  48.78 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 17:45)
+=======================================================
+
+[19:15:04] 📊 M15 | Cena: 2340.99 | RSI: 48.45 | ADX: 23.75 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[19:30:04] 📊 M15 | Cena: 2335.30 | RSI: 44.27 | ADX: 22.51 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 19:36:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2326.53
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  22.51 (Próg > 20)
+📉 RSI (14):  44.27 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 18:15)
+=======================================================
+
+[19:45:04] 📊 M15 | Cena: 2329.27 | RSI: 40.31 | ADX: 22.44 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[20:00:05] 📊 M15 | Cena: 2331.47 | RSI: 42.34 | ADX: 22.38 | Trend H1: Bull 🟢 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 20:06:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2329.49
+📈 Trend H1:  🟢 WZROSTOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  22.38 (Próg > 20)
+📉 RSI (14):  42.34 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 18:45)
+=======================================================
+
+[20:15:04] 📊 M15 | Cena: 2327.86 | RSI: 39.94 | ADX: 22.33 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[20:30:04] 📊 M15 | Cena: 2331.35 | RSI: 43.29 | ADX: 22.18 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 20:37:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2334.73
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  22.18 (Próg > 20)
+📉 RSI (14):  43.29 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: LONG 🟢
+✅ Status: AKTYWNY (Ostatnia świeca: 19:15)
+=======================================================
+
+[20:45:04] 📊 M15 | Cena: 2334.84 | RSI: 46.50 | ADX: 21.26 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[21:00:05] 📊 M15 | Cena: 2336.89 | RSI: 48.34 | ADX: 20.08 | Trend H1: Bear 🔴 ➡️ WYGENEROWANO SYGNAŁ SHORT 🔴
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 21:07:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2305.71
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  20.08 (Próg > 20)
+📉 RSI (14):  48.34 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 19:45)
+=======================================================
+
+[21:15:04] 📊 M15 | Cena: 2315.69 | RSI: 34.91 | ADX: 21.65 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[21:30:04] 📊 M15 | Cena: 2317.24 | RSI: 36.30 | ADX: 23.11 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 21:38:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2297.46
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  23.11 (Próg > 20)
+📉 RSI (14):  36.30 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 20:15)
+=======================================================
+
+[21:46:03] 📊 M15 | Cena: 2255.60 | RSI: 18.93 | ADX: 26.61 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[22:00:05] 📊 M15 | Cena: 2257.88 | RSI: 20.45 | ADX: 29.97 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 22:08:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2261.05
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  29.97 (Próg > 20)
+📉 RSI (14):  20.45 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 20:45)
+=======================================================
+
+Błąd pobierania danych z BINANCE: binance GET https://api.binance.com/api/v3/klines?interval=15m&limit=200&symbol=ETHUSDT
+Błąd pobierania danych z BINANCE: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=200&symbol=ETHUSDT
+[22:10:15] ⚠️ Błąd: Puste lub niewystarczające dane rynkowe z BINANCE. Ponowna próba za 60s...
+[22:15:04] 📊 M15 | Cena: 2270.87 | RSI: 28.64 | ADX: 33.09 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[22:30:04] 📊 M15 | Cena: 2280.84 | RSI: 34.23 | ADX: 34.13 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 22:38:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2290.93
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  34.13 (Próg > 20)
+📉 RSI (14):  34.23 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 21:15)
+=======================================================
+
+[22:45:04] 📊 M15 | Cena: 2272.91 | RSI: 32.08 | ADX: 35.09 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[23:00:06] 📊 M15 | Cena: 2273.59 | RSI: 32.47 | ADX: 36.14 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 23:09:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2261.28
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  36.14 (Próg > 20)
+📉 RSI (14):  32.47 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 21:45)
+=======================================================
+
+[23:15:04] 📊 M15 | Cena: 2266.19 | RSI: 30.41 | ADX: 37.52 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[23:30:04] 📊 M15 | Cena: 2271.23 | RSI: 33.51 | ADX: 38.19 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-29 23:40:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2276.49
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  38.19 (Próg > 20)
+📉 RSI (14):  33.51 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 22:15)
+=======================================================
+
+[23:45:04] 📊 M15 | Cena: 2274.60 | RSI: 35.57 | ADX: 38.45 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[00:00:06] 📊 M15 | Cena: 2274.25 | RSI: 35.44 | ADX: 38.69 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 00:10:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2267.77
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  38.69 (Próg > 20)
+📉 RSI (14):  35.44 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 22:45)
+=======================================================
+
+[00:15:04] 📊 M15 | Cena: 2268.19 | RSI: 33.30 | ADX: 39.23 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[00:30:04] 📊 M15 | Cena: 2267.72 | RSI: 33.13 | ADX: 39.74 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 00:41:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2263.47
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  39.74 (Próg > 20)
+📉 RSI (14):  33.13 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 23:15)
+=======================================================
+
+[00:45:04] 📊 M15 | Cena: 2260.52 | RSI: 30.59 | ADX: 40.44 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[01:00:08] 📊 M15 | Cena: 2253.13 | RSI: 28.20 | ADX: 41.42 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 01:11:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2241.03
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  41.42 (Próg > 20)
+📉 RSI (14):  28.20 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 23:45)
+=======================================================
+
+[01:15:05] 📊 M15 | Cena: 2246.46 | RSI: 26.21 | ADX: 42.68 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[01:30:04] 📊 M15 | Cena: 2208.55 | RSI: 18.30 | ADX: 44.60 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 01:41:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2214.19
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  44.60 (Próg > 20)
+📉 RSI (14):  18.30 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 00:15)
+=======================================================
+
+[01:45:04] 📊 M15 | Cena: 2212.61 | RSI: 21.05 | ADX: 46.42 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[02:00:06] 📊 M15 | Cena: 2222.69 | RSI: 27.56 | ADX: 47.51 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 02:12:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2218.70
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  47.51 (Próg > 20)
+📉 RSI (14):  27.56 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 00:45)
+=======================================================
+
+[02:15:04] 📊 M15 | Cena: 2224.99 | RSI: 29.00 | ADX: 48.34 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[02:30:04] 📊 M15 | Cena: 2204.57 | RSI: 24.37 | ADX: 49.28 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 02:42:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2210.02
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  49.28 (Próg > 20)
+📉 RSI (14):  24.37 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 01:15)
+=======================================================
+
+[02:45:04] 📊 M15 | Cena: 2206.03 | RSI: 25.29 | ADX: 50.73 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[03:00:08] 📊 M15 | Cena: 2195.34 | RSI: 23.08 | ADX: 52.07 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 03:12:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2199.69
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  52.07 (Próg > 20)
+📉 RSI (14):  23.08 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 01:45)
+=======================================================
+
+[03:15:04] 📊 M15 | Cena: 2205.38 | RSI: 29.33 | ADX: 53.44 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[03:30:04] 📊 M15 | Cena: 2214.64 | RSI: 34.60 | ADX: 53.63 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 03:43:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2217.44
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  53.63 (Próg > 20)
+📉 RSI (14):  34.60 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 02:15)
+=======================================================
+
+[03:45:04] 📊 M15 | Cena: 2216.50 | RSI: 35.64 | ADX: 53.64 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[04:00:06] 📊 M15 | Cena: 2210.12 | RSI: 33.66 | ADX: 53.72 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 04:13:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2216.28
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  53.72 (Próg > 20)
+📉 RSI (14):  33.66 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 02:45)
+=======================================================
+
+[04:15:04] 📊 M15 | Cena: 2212.56 | RSI: 35.14 | ADX: 53.49 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[04:30:04] 📊 M15 | Cena: 2221.84 | RSI: 40.58 | ADX: 53.04 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 04:44:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2231.47
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  53.04 (Próg > 20)
+📉 RSI (14):  40.58 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 03:15)
+=======================================================
+
+[04:45:04] 📊 M15 | Cena: 2233.14 | RSI: 46.46 | ADX: 51.52 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[05:00:05] 📊 M15 | Cena: 2237.82 | RSI: 48.72 | ADX: 49.68 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 05:15:04
+💰 Symbol: ETH/USDT | Aktualna cena: $2237.88
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  48.21 (Próg > 20)
+📉 RSI (14):  48.76 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 04:00)
+=======================================================
+
+[05:15:04] 📊 M15 | Cena: 2237.90 | RSI: 48.76 | ADX: 48.21 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[05:30:04] 📊 M15 | Cena: 2244.21 | RSI: 51.94 | ADX: 46.28 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[05:45:04] 📊 M15 | Cena: 2246.19 | RSI: 52.92 | ADX: 44.21 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 05:46:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2247.26
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  44.21 (Próg > 20)
+📉 RSI (14):  52.92 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 04:30)
+=======================================================
+
+[06:00:04] 📊 M15 | Cena: 2243.79 | RSI: 51.54 | ADX: 42.35 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[06:15:04] 📊 M15 | Cena: 2248.16 | RSI: 53.90 | ADX: 40.12 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 06:16:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2248.56
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  40.12 (Próg > 20)
+📉 RSI (14):  53.90 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 05:00)
+=======================================================
+
+[06:30:04] 📊 M15 | Cena: 2249.20 | RSI: 54.47 | ADX: 38.05 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[06:45:04] 📊 M15 | Cena: 2250.13 | RSI: 55.00 | ADX: 35.85 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 06:47:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2249.41
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  35.85 (Próg > 20)
+📉 RSI (14):  55.00 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 05:30)
+=======================================================
+
+[07:00:04] 📊 M15 | Cena: 2239.35 | RSI: 47.98 | ADX: 34.41 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[07:15:04] 📊 M15 | Cena: 2247.35 | RSI: 52.80 | ADX: 33.23 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 07:17:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2247.70
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  33.23 (Próg > 20)
+📉 RSI (14):  52.80 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 06:00)
+=======================================================
+
+[07:30:04] 📊 M15 | Cena: 2251.79 | RSI: 55.27 | ADX: 31.70 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[07:45:04] 📊 M15 | Cena: 2248.75 | RSI: 53.21 | ADX: 29.60 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 07:48:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2244.23
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  29.60 (Próg > 20)
+📉 RSI (14):  53.21 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 06:30)
+=======================================================
+
+[08:00:04] 📊 M15 | Cena: 2254.10 | RSI: 56.30 | ADX: 28.03 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[08:15:04] 📊 M15 | Cena: 2249.10 | RSI: 52.80 | ADX: 26.54 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 08:18:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2251.32
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  26.54 (Próg > 20)
+📉 RSI (14):  52.80 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 07:00)
+=======================================================
+
+[08:30:04] 📊 M15 | Cena: 2248.26 | RSI: 52.21 | ADX: 25.47 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[08:45:04] 📊 M15 | Cena: 2231.93 | RSI: 42.35 | ADX: 25.70 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 08:49:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2237.21
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  25.70 (Próg > 20)
+📉 RSI (14):  42.35 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 07:30)
+=======================================================
+
+[09:00:05] 📊 M15 | Cena: 2237.07 | RSI: 45.81 | ADX: 25.92 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[09:15:04] 📊 M15 | Cena: 2232.89 | RSI: 43.52 | ADX: 26.45 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 09:19:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2233.26
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  26.45 (Próg > 20)
+📉 RSI (14):  43.52 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 08:00)
+=======================================================
+
+[09:30:04] 📊 M15 | Cena: 2226.29 | RSI: 40.11 | ADX: 26.93 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[09:45:04] 📊 M15 | Cena: 2225.54 | RSI: 39.73 | ADX: 27.49 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 09:50:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2224.76
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  27.49 (Próg > 20)
+📉 RSI (14):  39.73 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 08:30)
+=======================================================
+
+[10:00:06] 📊 M15 | Cena: 2228.86 | RSI: 42.34 | ADX: 27.84 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[10:15:04] 📊 M15 | Cena: 2223.95 | RSI: 39.60 | ADX: 28.30 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 10:21:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2224.60
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  28.30 (Próg > 20)
+📉 RSI (14):  39.60 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 09:00)
+=======================================================
+
+[10:30:04] 📊 M15 | Cena: 2226.90 | RSI: 42.03 | ADX: 28.79 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[10:45:04] 📊 M15 | Cena: 2231.17 | RSI: 45.44 | ADX: 28.36 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 10:52:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2229.24
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  28.36 (Próg > 20)
+📉 RSI (14):  45.44 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 09:30)
+=======================================================
+
+[11:00:05] 📊 M15 | Cena: 2229.69 | RSI: 44.46 | ADX: 27.96 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[11:15:04] 📊 M15 | Cena: 2225.40 | RSI: 41.67 | ADX: 28.04 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 11:22:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2223.35
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  28.04 (Próg > 20)
+📉 RSI (14):  41.67 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 10:00)
+=======================================================
+
+[11:30:04] 📊 M15 | Cena: 2229.70 | RSI: 45.38 | ADX: 27.78 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[11:45:04] 📊 M15 | Cena: 2245.71 | RSI: 56.47 | ADX: 26.42 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 11:53:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2244.95
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  26.42 (Próg > 20)
+📉 RSI (14):  56.47 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 10:30)
+=======================================================
+
+[12:00:06] 📊 M15 | Cena: 2249.60 | RSI: 58.67 | ADX: 25.17 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[12:15:04] 📊 M15 | Cena: 2245.10 | RSI: 55.20 | ADX: 24.35 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 12:23:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2245.73
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  24.35 (Próg > 20)
+📉 RSI (14):  55.20 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 11:00)
+=======================================================
+
+[12:30:04] 📊 M15 | Cena: 2248.62 | RSI: 57.32 | ADX: 23.35 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[12:45:04] 📊 M15 | Cena: 2238.94 | RSI: 50.26 | ADX: 21.94 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 12:53:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2235.51
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  21.94 (Próg > 20)
+📉 RSI (14):  50.26 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 11:30)
+=======================================================
+
+[13:00:08] 📊 M15 | Cena: 2236.62 | RSI: 48.71 | ADX: 21.09 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[13:15:04] 📊 M15 | Cena: 2238.12 | RSI: 49.79 | ADX: 20.35 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 13:24:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2235.66
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  20.35 (Próg > 20)
+📉 RSI (14):  49.79 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 12:00)
+=======================================================
+
+[13:30:04] 📊 M15 | Cena: 2235.15 | RSI: 47.65 | ADX: 19.66 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[13:45:04] 📊 M15 | Cena: 2230.55 | RSI: 44.47 | ADX: 19.70 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 13:54:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2232.24
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  19.70 (Próg > 20)
+📉 RSI (14):  44.47 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 12:30)
+=======================================================
+
+[14:00:05] 📊 M15 | Cena: 2234.93 | RSI: 48.03 | ADX: 19.73 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[14:15:04] 📊 M15 | Cena: 2229.66 | RSI: 44.35 | ADX: 20.11 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 14:25:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2230.33
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  20.11 (Próg > 20)
+📉 RSI (14):  44.35 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ❌ PONIŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 13:00)
+=======================================================
+
+[14:30:04] 📊 M15 | Cena: 2229.26 | RSI: 44.07 | ADX: 20.27 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[14:45:04] 📊 M15 | Cena: 2222.89 | RSI: 39.82 | ADX: 21.65 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 14:56:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2217.62
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  21.65 (Próg > 20)
+📉 RSI (14):  39.82 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 13:30)
+=======================================================
+
+[15:00:05] 📊 M15 | Cena: 2226.00 | RSI: 42.72 | ADX: 23.46 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[15:15:05] 📊 M15 | Cena: 2216.50 | RSI: 36.87 | ADX: 25.15 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 15:27:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2222.52
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  25.15 (Próg > 20)
+📉 RSI (14):  36.87 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 14:00)
+=======================================================
+
+[15:30:04] 📊 M15 | Cena: 2223.43 | RSI: 43.01 | ADX: 26.82 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[15:45:04] 📊 M15 | Cena: 2232.79 | RSI: 50.07 | ADX: 26.11 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 15:57:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2235.30
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🔴 SPADKOWY (Bearish)
+📊 ADX (14):  26.11 (Próg > 20)
+📉 RSI (14):  50.07 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 14:30)
+=======================================================
+
+[16:00:07] 📊 M15 | Cena: 2237.94 | RSI: 53.48 | ADX: 25.36 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[16:15:04] 📊 M15 | Cena: 2252.19 | RSI: 61.35 | ADX: 24.30 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 16:28:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2237.80
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟢 WZROSTOWY (Bullish)
+📊 ADX (14):  24.30 (Próg > 20)
+📉 RSI (14):  61.35 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 15:00)
+=======================================================
+
+[16:30:04] 📊 M15 | Cena: 2239.49 | RSI: 52.78 | ADX: 23.86 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[16:45:04] 📊 M15 | Cena: 2227.39 | RSI: 46.16 | ADX: 22.28 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 16:59:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2228.68
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  22.28 (Próg > 20)
+📉 RSI (14):  46.16 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 15:30)
+=======================================================
+
+[17:00:07] 📊 M15 | Cena: 2227.44 | RSI: 46.19 | ADX: 20.95 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[17:15:04] 📊 M15 | Cena: 2233.76 | RSI: 49.99 | ADX: 20.09 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 17:29:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2238.06
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  20.09 (Próg > 20)
+📉 RSI (14):  49.99 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 16:00)
+=======================================================
+
+[17:30:04] 📊 M15 | Cena: 2238.72 | RSI: 52.80 | ADX: 18.72 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+[17:45:04] 📊 M15 | Cena: 2233.05 | RSI: 49.38 | ADX: 17.44 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+=======================================================
+🕒 STATUS BOTA ETH (HEARTBEAT) — 2026-10-30 17:59:03
+💰 Symbol: ETH/USDT | Aktualna cena: $2230.14
+📈 Trend H1:  🔴 SPADKOWY
+⏱️ Trend M15: 🟡 MIESZANY (Konsolidacja)
+📊 ADX (14):  17.44 (Próg > 20)
+📉 RSI (14):  49.38 (Zgodne z trendem >50/<50)
+🔊 Wolumen:   ✅ POWYŻEJ ŚREDNIEJ
+🎯 Aktualna pozycja: SHORT 🔴
+✅ Status: AKTYWNY (Ostatnia świeca: 16:30)
+=======================================================
+
+[18:00:05] 📊 M15 | Cena: 2233.58 | RSI: 49.71 | ADX: 17.15 | Trend H1: Bear 🔴 ➡️ Brak sygnału (Oczekuję na Vol & RSI).
+
+[18:02:30] Zatrzymano monitorowanie giełdy BINANCE.
