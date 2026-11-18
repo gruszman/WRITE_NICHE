@@ -39,16 +39,16 @@
     "trail_count": 0
   },
   "SUI/USDT:USDT": {
-    "tp": 0.7467269133849542,
-    "sl": 0.72137664,
+    "tp": 0.7373627,
+    "sl": 0.71275968,
     "be_done": false,
     "partial_done": false,
     "dca_done": false,
     "last_order_time": 1794951051.2091107,
     "partial_lock_until": 0.0,
-    "initial_contracts": 24.0,
+    "initial_contracts": 25.0,
     "was_open": true,
-    "extreme_price": 0.7375,
+    "extreme_price": 0.7276,
     "trail_count": 0
   },
   "SOL/USDT:USDT": {
