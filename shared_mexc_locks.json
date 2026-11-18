@@ -1,18 +1,18 @@
 {
   "BTC/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1794985197.0092409
-  },
-  "XRP/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1794985197.0159419
-  },
-  "SUI/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1794985197.0270166
+    "ts": 1795006839.894737
   },
   "JPY/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1794985197.0334668
+    "ts": 1795006839.9020693
+  },
+  "XRP/USDT:USDT": {
+    "owner": "BOT1_V10_PRO",
+    "ts": 1795006862.6384428
+  },
+  "US30/USDT:USDT": {
+    "owner": "BOT3_INDEX_V6",
+    "ts": 1795006836.8561966
   }
 }

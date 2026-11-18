@@ -9,6 +9,7 @@
     "partial_lock_until": 0.0,
     "initial_contracts": 0.0,
     "was_open": false,
+    "managed_by_me": false,
     "extreme_price": 0.0,
     "trail_count": 0
   },
@@ -22,20 +23,22 @@
     "partial_lock_until": 0.0,
     "initial_contracts": 0.0,
     "was_open": false,
+    "managed_by_me": false,
     "extreme_price": 0.0,
     "trail_count": 0
   },
   "XRP/USDT:USDT": {
-    "tp": 0.9945207,
-    "sl": 0.9663868800000001,
+    "tp": 0.9988129101730546,
+    "sl": 0.97051296,
     "be_done": false,
     "partial_done": false,
     "dca_done": false,
-    "last_order_time": 0.0,
+    "last_order_time": 1795000809.9483166,
     "partial_lock_until": 0.0,
-    "initial_contracts": 18.0,
+    "initial_contracts": 24.0,
     "was_open": true,
-    "extreme_price": 0.9834,
+    "managed_by_me": true,
+    "extreme_price": 0.9879,
     "trail_count": 0
   },
   "SUI/USDT:USDT": {
@@ -48,6 +51,7 @@
     "partial_lock_until": 0.0,
     "initial_contracts": 25.0,
     "was_open": true,
+    "managed_by_me": false,
     "extreme_price": 0.7276,
     "trail_count": 0
   },
@@ -61,6 +65,7 @@
     "partial_lock_until": 0.0,
     "initial_contracts": 0.0,
     "was_open": false,
+    "managed_by_me": false,
     "extreme_price": 0.0,
     "trail_count": 0
   }
