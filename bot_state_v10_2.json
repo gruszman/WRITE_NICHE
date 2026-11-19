@@ -1,0 +1,55 @@
+{
+  "positions": {
+    "XRP/USDT:USDT": {
+      "tp": 0.0,
+      "sl": 0.0,
+      "be_done": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "partial_lock_until": 0.0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "extreme_price": 0.0,
+      "trail_count": 0,
+      "sl_order_id": null
+    },
+    "SUI/USDT:USDT": {
+      "tp": 0.7153776,
+      "sl": 0.7389336,
+      "be_done": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 1795060522.514628,
+      "partial_lock_until": 0.0,
+      "initial_contracts": 17.0,
+      "was_open": true,
+      "managed_by_me": true,
+      "extreme_price": 0.7248,
+      "trail_count": 0,
+      "sl_order_id": "878245833063115264"
+    },
+    "SOL/USDT:USDT": {
+      "tp": 0.0,
+      "sl": 0.0,
+      "be_done": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "partial_lock_until": 0.0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "extreme_price": 0.0,
+      "trail_count": 0,
+      "sl_order_id": null
+    }
+  },
+  "daily_stats": {
+    "date": "2026-11-19",
+    "realized_pnl_usdt": 0.0,
+    "loss_streak": 0,
+    "trades_count": 0
+  }
+}

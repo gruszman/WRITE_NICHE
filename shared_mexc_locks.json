@@ -9,14 +9,18 @@
   },
   "XAU/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795030685.779905
+    "ts": 1795071610.3150737
   },
   "ETH/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
     "ts": 1795030685.7869706
   },
-  "DOGE/USDT:USDT": {
+  "SUI/USDT:USDT": {
+    "owner": "BOT1_V10_PRO",
+    "ts": 1795071619.940543
+  },
+  "BTC/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795050056.9224932
+    "ts": 1795071610.3058941
   }
 }
