@@ -1,15 +1,19 @@
 {
-    "US30/USDT:USDT": {
-        "side": "short",
-        "entry_price": 50680.28,
-        "entry_atr": 51.73412641491259,
-        "amount": 144.0,
-        "stop_loss": 50757.88118962237,
-        "take_profit": 50550.94468396272,
-        "extreme_price": 50680.28,
-        "trailing_active": false,
-        "tp_shifts": 0,
-        "sl_order_id": "878020567680767680",
-        "managed_by_me": true
+    "positions": {
+        "NAS100/USDT:USDT": {
+            "side": "short",
+            "entry_price": 27071.0,
+            "entry_atr": 113.43888096912572,
+            "amount": 129.0,
+            "stop_loss": 27241.158321453688,
+            "take_profit": 26787.402797577186,
+            "extreme_price": 27049.0,
+            "trailing_active": false,
+            "tp_shifts": 0,
+            "sl_order_id": "878100172068432576"
+        }
+    },
+    "cooldowns": {
+        "US30/USDT:USDT": 1795026972.7025547
     }
 }

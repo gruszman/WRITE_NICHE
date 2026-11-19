@@ -6,3 +6,10 @@ JUMPTASK"=7bd65cf8-5bfd-43f2-a450-4e2706220d0a
 
 
 honeypass:NSJ6Q9wUxLhLdBt
+
+'apiKey': 'mx0vgl3msshpmFP2mM',
+    'secret': 'bc9c86a906814b16833d537b3741e401',
+
+
+MEXC_API_KEY = "mx0vglDZghdXX6fDMe"
+MEXC_SECRET = "bee2b2e572304a1ca8bc887cbb21743e"
