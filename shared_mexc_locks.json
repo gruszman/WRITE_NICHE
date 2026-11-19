@@ -1,26 +1,22 @@
 {
   "JPY/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795030685.771765
+    "ts": 1795114787.2193677
   },
   "SPX500/USDT:USDT": {
     "owner": "BOT3_INDEX_V6",
     "ts": 1795017463.4367456
   },
-  "XAU/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1795093247.099215
-  },
   "ETH/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795030685.7869706
-  },
-  "SUI/USDT:USDT": {
-    "owner": "BOT1_V10_PRO",
-    "ts": 1795093244.0821369
+    "ts": 1795114787.2353055
   },
   "BTC/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795093247.106823
+    "ts": 1795114787.227697
+  },
+  "US30/USDT:USDT": {
+    "owner": "BOT4_INDEX_V64",
+    "ts": 1795114661.5656295
   }
 }

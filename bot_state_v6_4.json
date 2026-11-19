@@ -1,8 +1,20 @@
 {
-    "positions": {},
-    "cooldowns": {
-        "NAS100/USDT:USDT": 1795045421.8125422
+    "positions": {
+        "US30/USDT:USDT": {
+            "side": "short",
+            "entry_price": 49435.91,
+            "entry_atr": 157.22819829443475,
+            "amount": 70.0,
+            "stop_loss": 49656.02947761221,
+            "take_profit": 49058.562324093364,
+            "extreme_price": 49305.96,
+            "trailing_active": false,
+            "partial_done": false,
+            "tp_shifts": 0,
+            "sl_order_id": "878469743472364224"
+        }
     },
+    "cooldowns": {},
     "daily_stats": {
         "date": "2026-11-19",
         "realized_pnl_usdt": -0.26036844000000003,

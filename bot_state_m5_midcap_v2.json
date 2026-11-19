@@ -1,0 +1,80 @@
+{
+  "positions": {
+    "ADA/USDT:USDT": {
+      "current_tp": 0.0,
+      "current_sl": 0.0,
+      "be_triggered": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "extreme_price": 0.0,
+      "tp_shifts": 0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "sl_order_id": null
+    },
+    "AVAX/USDT:USDT": {
+      "current_tp": 0.0,
+      "current_sl": 0.0,
+      "be_triggered": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "extreme_price": 0.0,
+      "tp_shifts": 0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "sl_order_id": null
+    },
+    "LINK/USDT:USDT": {
+      "current_tp": 0.0,
+      "current_sl": 0.0,
+      "be_triggered": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 1795100753.9786718,
+      "extreme_price": 0.0,
+      "tp_shifts": 0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "sl_order_id": null
+    },
+    "DOT/USDT:USDT": {
+      "current_tp": 0.0,
+      "current_sl": 0.0,
+      "be_triggered": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "extreme_price": 0.0,
+      "tp_shifts": 0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "sl_order_id": null
+    },
+    "LTC/USDT:USDT": {
+      "current_tp": 0.0,
+      "current_sl": 0.0,
+      "be_triggered": false,
+      "partial_done": false,
+      "dca_done": false,
+      "last_order_time": 0.0,
+      "extreme_price": 0.0,
+      "tp_shifts": 0,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "sl_order_id": null
+    }
+  },
+  "daily_stats": {
+    "date": "2026-11-19",
+    "realized_pnl_usdt": -0.09851214939750026,
+    "loss_streak": 1,
+    "trades_count": 1
+  }
+}
