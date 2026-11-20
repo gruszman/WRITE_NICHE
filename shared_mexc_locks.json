@@ -1,7 +1,7 @@
 {
   "JPY/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795158007.2649634
+    "ts": 1795179606.5548306
   },
   "SPX500/USDT:USDT": {
     "owner": "BOT3_INDEX_V6",
@@ -9,10 +9,10 @@
   },
   "BTC/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795158007.274568
+    "ts": 1795179606.5632782
   },
   "DOGE/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795158007.2844613
+    "ts": 1795179606.571614
   }
 }
