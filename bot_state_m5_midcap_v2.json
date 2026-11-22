@@ -34,13 +34,12 @@
       "be_triggered": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795100753.9786718,
+      "last_order_time": 1795186478.1283689,
       "extreme_price": 0.0,
       "tp_shifts": 0,
       "initial_contracts": 0.0,
       "was_open": false,
-      "managed_by_me": false,
-      "sl_order_id": null
+      "managed_by_me": false
     },
     "DOT/USDT:USDT": {
       "current_tp": 0.0,
@@ -48,13 +47,12 @@
       "be_triggered": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 0.0,
+      "last_order_time": 1795297389.1707551,
       "extreme_price": 0.0,
       "tp_shifts": 0,
       "initial_contracts": 0.0,
       "was_open": false,
-      "managed_by_me": false,
-      "sl_order_id": null
+      "managed_by_me": false
     },
     "LTC/USDT:USDT": {
       "current_tp": 0.0,
@@ -72,9 +70,9 @@
     }
   },
   "daily_stats": {
-    "date": "2026-11-19",
-    "realized_pnl_usdt": -0.09851214939750026,
-    "loss_streak": 1,
+    "date": "2026-11-21",
+    "realized_pnl_usdt": 0.08023935999999966,
+    "loss_streak": 0,
     "trades_count": 1
   }
 }
