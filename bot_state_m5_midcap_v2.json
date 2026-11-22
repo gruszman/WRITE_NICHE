@@ -55,24 +55,23 @@
       "managed_by_me": false
     },
     "LTC/USDT:USDT": {
-      "current_tp": 39.075375,
-      "current_sl": 39.88656,
+      "current_tp": 0.0,
+      "current_sl": 0.0,
       "be_triggered": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795350323.16789,
-      "extreme_price": 39.57,
+      "last_order_time": 1795354613.250543,
+      "extreme_price": 0.0,
       "tp_shifts": 0,
-      "initial_contracts": 21.0,
-      "was_open": true,
-      "managed_by_me": true,
-      "sl_order_id": null
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false
     }
   },
   "daily_stats": {
     "date": "2026-11-22",
-    "realized_pnl_usdt": 0.0,
-    "loss_streak": 0,
-    "trades_count": 0
+    "realized_pnl_usdt": -0.09899511803999944,
+    "loss_streak": 1,
+    "trades_count": 1
   }
 }

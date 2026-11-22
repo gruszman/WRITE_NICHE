@@ -1,14 +1,14 @@
 {
   "DOGE/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795352417.9085302
+    "ts": 1795374055.8185022
   },
   "ETH/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795352417.9257631
+    "ts": 1795374055.826879
   },
-  "LTC/USDT:USDT": {
-    "owner": "BOT3_M5_MIDCAP",
-    "ts": 1795352426.41652
+  "XRP/USDT:USDT": {
+    "owner": "BOT1_V10_PRO",
+    "ts": 1795374061.2082217
   }
 }

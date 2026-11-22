@@ -1,17 +1,17 @@
 {
   "positions": {
     "XRP/USDT:USDT": {
-      "tp": 0.0,
-      "sl": 0.0,
+      "tp": 0.917792,
+      "sl": 0.943312,
       "be_done": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795268199.0612097,
+      "last_order_time": 1795365001.3990593,
       "partial_lock_until": 0.0,
-      "initial_contracts": 0.0,
-      "was_open": false,
-      "managed_by_me": false,
-      "extreme_price": 0.0,
+      "initial_contracts": 13.0,
+      "was_open": true,
+      "managed_by_me": true,
+      "extreme_price": 0.928,
       "trail_count": 0
     },
     "SOL/USDT:USDT": {
