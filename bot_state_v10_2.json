@@ -1,17 +1,17 @@
 {
   "positions": {
     "XRP/USDT:USDT": {
-      "tp": 0.9145283,
-      "sl": 0.9399575499999999,
+      "tp": 0.9188035564003998,
+      "sl": 0.9462598499999999,
       "be_done": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795389021.4124548,
+      "last_order_time": 1795405567.46181,
       "partial_lock_until": 0.0,
       "initial_contracts": 13.0,
       "was_open": true,
       "managed_by_me": true,
-      "extreme_price": 0.9247,
+      "extreme_price": 0.9309,
       "trail_count": 0
     },
     "SOL/USDT:USDT": {
@@ -20,7 +20,7 @@
       "be_done": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795388905.3467124,
+      "last_order_time": 1795405554.1303651,
       "partial_lock_until": 0.0,
       "initial_contracts": 0.0,
       "was_open": false,
@@ -31,8 +31,8 @@
   },
   "daily_stats": {
     "date": "2026-11-23",
-    "realized_pnl_usdt": 0.006751999999999262,
+    "realized_pnl_usdt": 0.1171420799999987,
     "loss_streak": 0,
-    "trades_count": 1
+    "trades_count": 3
   }
 }
