@@ -47,7 +47,7 @@
       "be_triggered": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795297389.1707551,
+      "last_order_time": 1795443530.7204998,
       "extreme_price": 0.0,
       "tp_shifts": 0,
       "initial_contracts": 0.0,
@@ -69,9 +69,9 @@
     }
   },
   "daily_stats": {
-    "date": "2026-11-22",
-    "realized_pnl_usdt": -0.09899511803999944,
-    "loss_streak": 1,
+    "date": "2026-11-23",
+    "realized_pnl_usdt": 0.08714129999999962,
+    "loss_streak": 0,
     "trades_count": 1
   }
 }

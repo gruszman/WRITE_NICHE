@@ -1,8 +1,6 @@
 {
     "positions": {},
-    "cooldowns": {
-        "US30/USDT:USDT": 1795204830.932106
-    },
+    "cooldowns": {},
     "daily_stats": {
         "date": "2026-11-23",
         "realized_pnl_usdt": 0.0,
