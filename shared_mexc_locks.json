@@ -1,6 +1,10 @@
 {
   "JPY/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795525228.5118253
+    "ts": 1795546822.5182884
+  },
+  "XRP/USDT:USDT": {
+    "owner": "BOT1_V10_PRO",
+    "ts": 1795546821.1304886
   }
 }
