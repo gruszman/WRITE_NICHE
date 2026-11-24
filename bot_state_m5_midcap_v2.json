@@ -1,17 +1,17 @@
 {
   "positions": {
     "ADA/USDT:USDT": {
-      "current_tp": 0.0,
-      "current_sl": 0.0,
-      "be_triggered": false,
-      "partial_done": false,
+      "current_tp": 0.14951984559254786,
+      "current_sl": 0.148050125,
+      "be_triggered": true,
+      "partial_done": true,
       "dca_done": false,
-      "last_order_time": 0.0,
-      "extreme_price": 0.0,
+      "last_order_time": 1795475119.1384373,
+      "extreme_price": 0.149,
       "tp_shifts": 0,
-      "initial_contracts": 0.0,
-      "was_open": false,
-      "managed_by_me": false,
+      "initial_contracts": 56.0,
+      "was_open": true,
+      "managed_by_me": true,
       "sl_order_id": null
     },
     "AVAX/USDT:USDT": {
@@ -69,9 +69,9 @@
     }
   },
   "daily_stats": {
-    "date": "2026-11-23",
-    "realized_pnl_usdt": 0.08714129999999962,
+    "date": "2026-11-24",
+    "realized_pnl_usdt": 0.0,
     "loss_streak": 0,
-    "trades_count": 1
+    "trades_count": 0
   }
 }
