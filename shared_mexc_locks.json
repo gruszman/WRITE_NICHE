@@ -1,14 +1,6 @@
 {
-  "SOL/USDT:USDT": {
-    "owner": "BOT1_V10_PRO",
-    "ts": 1795482044.4995542
-  },
   "JPY/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795482050.4088438
-  },
-  "ADA/USDT:USDT": {
-    "owner": "BOT3_M5_MIDCAP",
-    "ts": 1795482045.678785
+    "ts": 1795503585.8127043
   }
 }

@@ -6,7 +6,7 @@
       "be_done": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795440084.1595967,
+      "last_order_time": 1795496152.2784789,
       "partial_lock_until": 0.0,
       "initial_contracts": 0.0,
       "was_open": false,
@@ -15,24 +15,24 @@
       "trail_count": 0
     },
     "SOL/USDT:USDT": {
-      "tp": 73.24104978641459,
-      "sl": 70.9986,
+      "tp": 0.0,
+      "sl": 0.0,
       "be_done": false,
       "partial_done": false,
       "dca_done": false,
-      "last_order_time": 1795470909.1334207,
+      "last_order_time": 1795488233.9333308,
       "partial_lock_until": 0.0,
-      "initial_contracts": 1.0,
-      "was_open": true,
-      "managed_by_me": true,
-      "extreme_price": 72.3,
+      "initial_contracts": 0.0,
+      "was_open": false,
+      "managed_by_me": false,
+      "extreme_price": 0.0,
       "trail_count": 0
     }
   },
   "daily_stats": {
-    "date": "2026-11-23",
-    "realized_pnl_usdt": -0.08100603327740202,
-    "loss_streak": 1,
-    "trades_count": 4
+    "date": "2026-11-24",
+    "realized_pnl_usdt": -0.020030105320729963,
+    "loss_streak": 0,
+    "trades_count": 2
   }
 }
