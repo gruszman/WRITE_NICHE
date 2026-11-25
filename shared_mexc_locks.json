@@ -1,18 +1,10 @@
 {
-  "JPY/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1795568408.1751063
-  },
   "BNB/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795568408.1826274
-  },
-  "ETH/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1795568408.191114
+    "ts": 1795589974.5378387
   },
   "DOGE/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795568408.200341
+    "ts": 1795589974.5453453
   }
 }
