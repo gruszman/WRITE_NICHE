@@ -1,12 +1,10 @@
 {
     "positions": {},
-    "cooldowns": {
-        "NAS100/USDT:USDT": 1795552732.354118
-    },
+    "cooldowns": {},
     "daily_stats": {
         "date": "2026-11-25",
-        "realized_pnl_usdt": 0.0,
-        "loss_streak": 0,
-        "trades_count": 0
+        "realized_pnl_usdt": -0.331692910000001,
+        "loss_streak": 1,
+        "trades_count": 3
     }
 }
