@@ -6,7 +6,7 @@
       "entry_atr": 0.0,
       "be_done": false,
       "partial_done": false,
-      "last_order_time": 1795551243.5958204,
+      "last_order_time": 1795607328.5530603,
       "partial_lock_until": 0.0,
       "initial_contracts": 0.0,
       "was_open": false,
@@ -31,9 +31,9 @@
     }
   },
   "daily_stats": {
-    "date": "2026-11-24",
-    "realized_pnl_usdt": -0.010038585320729867,
-    "loss_streak": 0,
-    "trades_count": 3
+    "date": "2026-11-25",
+    "realized_pnl_usdt": -0.1372279592807,
+    "loss_streak": 1,
+    "trades_count": 2
   }
 }

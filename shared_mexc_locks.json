@@ -1,10 +1,10 @@
 {
-  "BNB/USDT:USDT": {
-    "owner": "BOT2_SMC_V8",
-    "ts": 1795589974.5378387
-  },
   "DOGE/USDT:USDT": {
     "owner": "BOT2_SMC_V8",
-    "ts": 1795589974.5453453
+    "ts": 1795611595.8093615
+  },
+  "JPY/USDT:USDT": {
+    "owner": "BOT2_SMC_V8",
+    "ts": 1795611595.8172038
   }
 }
